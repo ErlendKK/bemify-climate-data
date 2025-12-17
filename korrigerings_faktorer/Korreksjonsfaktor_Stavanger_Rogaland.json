@@ -1,0 +1,19 @@
+{
+  "kommune": "Stavanger",
+  "fylke": "Rogaland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.79,
+    "Sykehus": 0.86,
+    "Sykehjem": 0.9,
+    "Småhus": 0.81,
+    "Skolebygning": 0.82,
+    "Kulturbygning": 0.86,
+    "Kontorbygning": 0.82,
+    "Lett industribygning, verksted": 0.84,
+    "Idrettsbygning": 0.71,
+    "Hotellbygning": 0.86,
+    "Forretningsbygning": 0.6,
+    "Boligblokk": 0.79,
+    "Barnehage": 0.92
+  }
+}

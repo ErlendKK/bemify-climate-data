@@ -1,0 +1,19 @@
+{
+  "kommune": "Sykkylven",
+  "fylke": "Møre og Romsdal",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.88,
+    "Sykehus": 0.92,
+    "Sykehjem": 0.96,
+    "Småhus": 0.92,
+    "Skolebygning": 0.92,
+    "Kulturbygning": 0.95,
+    "Kontorbygning": 0.91,
+    "Lett industribygning, verksted": 0.94,
+    "Idrettsbygning": 0.85,
+    "Hotellbygning": 0.94,
+    "Forretningsbygning": 0.7,
+    "Boligblokk": 0.93,
+    "Barnehage": 0.99
+  }
+}

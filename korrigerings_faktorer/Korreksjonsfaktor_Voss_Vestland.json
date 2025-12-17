@@ -1,0 +1,19 @@
+{
+  "kommune": "Voss",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.96,
+    "Sykehus": 0.97,
+    "Sykehjem": 0.99,
+    "Småhus": 1.0,
+    "Skolebygning": 0.97,
+    "Kulturbygning": 0.99,
+    "Kontorbygning": 0.97,
+    "Lett industribygning, verksted": 0.99,
+    "Idrettsbygning": 0.97,
+    "Hotellbygning": 0.99,
+    "Forretningsbygning": 0.89,
+    "Boligblokk": 1.01,
+    "Barnehage": 1.01
+  }
+}

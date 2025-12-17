@@ -1,0 +1,19 @@
+{
+  "kommune": "Tolga",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.46,
+    "Sykehus": 1.37,
+    "Sykehjem": 1.35,
+    "Småhus": 1.56,
+    "Skolebygning": 1.51,
+    "Kulturbygning": 1.43,
+    "Kontorbygning": 1.43,
+    "Lett industribygning, verksted": 1.46,
+    "Idrettsbygning": 1.62,
+    "Hotellbygning": 1.41,
+    "Forretningsbygning": 1.46,
+    "Boligblokk": 1.69,
+    "Barnehage": 1.35
+  }
+}

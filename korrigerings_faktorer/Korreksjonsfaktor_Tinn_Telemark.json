@@ -1,0 +1,19 @@
+{
+  "kommune": "Tinn",
+  "fylke": "Telemark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.06,
+    "Sykehus": 1.06,
+    "Sykehjem": 1.05,
+    "Småhus": 1.1,
+    "Skolebygning": 1.07,
+    "Kulturbygning": 1.07,
+    "Kontorbygning": 1.05,
+    "Lett industribygning, verksted": 1.08,
+    "Idrettsbygning": 1.12,
+    "Hotellbygning": 1.08,
+    "Forretningsbygning": 1.04,
+    "Boligblokk": 1.08,
+    "Barnehage": 1.08
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kommune": "Tjeldsund",
+  "fylke": "Troms",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.44,
+    "Sykehus": 1.34,
+    "Sykehjem": 1.33,
+    "Småhus": 1.57,
+    "Skolebygning": 1.5,
+    "Kulturbygning": 1.42,
+    "Kontorbygning": 1.44,
+    "Lett industribygning, verksted": 1.46,
+    "Idrettsbygning": 1.6,
+    "Hotellbygning": 1.4,
+    "Forretningsbygning": 1.38,
+    "Boligblokk": 1.72,
+    "Barnehage": 1.34
+  }
+}

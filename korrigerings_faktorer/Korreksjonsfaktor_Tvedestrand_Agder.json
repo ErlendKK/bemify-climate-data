@@ -1,0 +1,19 @@
+{
+  "kommune": "Tvedestrand",
+  "fylke": "Agder",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.99,
+    "Sykehus": 1.02,
+    "Sykehjem": 1.02,
+    "Småhus": 0.98,
+    "Skolebygning": 0.97,
+    "Kulturbygning": 1.01,
+    "Kontorbygning": 1.0,
+    "Lett industribygning, verksted": 1.0,
+    "Idrettsbygning": 0.94,
+    "Hotellbygning": 1.02,
+    "Forretningsbygning": 0.93,
+    "Boligblokk": 0.99,
+    "Barnehage": 1.02
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kommune": "Øystre Slidre",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.35,
+    "Sykehus": 1.28,
+    "Sykehjem": 1.27,
+    "Småhus": 1.45,
+    "Skolebygning": 1.4,
+    "Kulturbygning": 1.33,
+    "Kontorbygning": 1.33,
+    "Lett industribygning, verksted": 1.36,
+    "Idrettsbygning": 1.51,
+    "Hotellbygning": 1.32,
+    "Forretningsbygning": 1.34,
+    "Boligblokk": 1.54,
+    "Barnehage": 1.28
+  }
+}

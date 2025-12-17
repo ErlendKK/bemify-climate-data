@@ -1,0 +1,19 @@
+{
+  "kommune": "Sør-Fron",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.3,
+    "Sykehus": 1.24,
+    "Sykehjem": 1.21,
+    "Småhus": 1.37,
+    "Skolebygning": 1.32,
+    "Kulturbygning": 1.25,
+    "Kontorbygning": 1.28,
+    "Lett industribygning, verksted": 1.28,
+    "Idrettsbygning": 1.42,
+    "Hotellbygning": 1.25,
+    "Forretningsbygning": 1.37,
+    "Boligblokk": 1.44,
+    "Barnehage": 1.21
+  }
+}

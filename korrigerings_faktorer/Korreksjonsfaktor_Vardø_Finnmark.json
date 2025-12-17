@@ -1,0 +1,19 @@
+{
+  "kommune": "Vardø",
+  "fylke": "Finnmark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.42,
+    "Sykehus": 1.32,
+    "Sykehjem": 1.33,
+    "Småhus": 1.56,
+    "Skolebygning": 1.51,
+    "Kulturbygning": 1.45,
+    "Kontorbygning": 1.43,
+    "Lett industribygning, verksted": 1.48,
+    "Idrettsbygning": 1.6,
+    "Hotellbygning": 1.41,
+    "Forretningsbygning": 1.26,
+    "Boligblokk": 1.7,
+    "Barnehage": 1.35
+  }
+}

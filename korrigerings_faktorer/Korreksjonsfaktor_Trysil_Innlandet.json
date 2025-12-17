@@ -1,0 +1,19 @@
+{
+  "kommune": "Trysil",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.36,
+    "Sykehus": 1.3,
+    "Sykehjem": 1.28,
+    "Småhus": 1.43,
+    "Skolebygning": 1.4,
+    "Kulturbygning": 1.34,
+    "Kontorbygning": 1.35,
+    "Lett industribygning, verksted": 1.36,
+    "Idrettsbygning": 1.47,
+    "Hotellbygning": 1.33,
+    "Forretningsbygning": 1.37,
+    "Boligblokk": 1.52,
+    "Barnehage": 1.28
+  }
+}

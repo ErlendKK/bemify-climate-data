@@ -1,0 +1,19 @@
+{
+  "kommune": "Ål",
+  "fylke": "Buskerud",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.2,
+    "Sykehus": 1.16,
+    "Sykehjem": 1.15,
+    "Småhus": 1.29,
+    "Skolebygning": 1.24,
+    "Kulturbygning": 1.19,
+    "Kontorbygning": 1.18,
+    "Lett industribygning, verksted": 1.22,
+    "Idrettsbygning": 1.31,
+    "Hotellbygning": 1.19,
+    "Forretningsbygning": 1.15,
+    "Boligblokk": 1.32,
+    "Barnehage": 1.18
+  }
+}

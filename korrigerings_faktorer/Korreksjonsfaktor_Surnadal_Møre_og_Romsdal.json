@@ -1,0 +1,19 @@
+{
+  "kommune": "Surnadal",
+  "fylke": "Møre og Romsdal",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.08,
+    "Sykehus": 1.07,
+    "Sykehjem": 1.08,
+    "Småhus": 1.12,
+    "Skolebygning": 1.11,
+    "Kulturbygning": 1.11,
+    "Kontorbygning": 1.1,
+    "Lett industribygning, verksted": 1.11,
+    "Idrettsbygning": 1.09,
+    "Hotellbygning": 1.1,
+    "Forretningsbygning": 0.97,
+    "Boligblokk": 1.15,
+    "Barnehage": 1.1
+  }
+}

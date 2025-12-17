@@ -1,0 +1,19 @@
+{
+  "kommune": "Åseral",
+  "fylke": "Agder",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.98,
+    "Sykehus": 0.98,
+    "Sykehjem": 1.01,
+    "Småhus": 1.05,
+    "Skolebygning": 1.0,
+    "Kulturbygning": 1.02,
+    "Kontorbygning": 1.0,
+    "Lett industribygning, verksted": 1.03,
+    "Idrettsbygning": 0.98,
+    "Hotellbygning": 1.02,
+    "Forretningsbygning": 0.85,
+    "Boligblokk": 1.04,
+    "Barnehage": 1.05
+  }
+}

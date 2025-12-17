@@ -1,0 +1,19 @@
+{
+  "kommune": "Sveio",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.89,
+    "Sykehus": 0.93,
+    "Sykehjem": 0.97,
+    "Småhus": 0.92,
+    "Skolebygning": 0.94,
+    "Kulturbygning": 0.96,
+    "Kontorbygning": 0.92,
+    "Lett industribygning, verksted": 0.95,
+    "Idrettsbygning": 0.86,
+    "Hotellbygning": 0.95,
+    "Forretningsbygning": 0.68,
+    "Boligblokk": 0.93,
+    "Barnehage": 0.99
+  }
+}

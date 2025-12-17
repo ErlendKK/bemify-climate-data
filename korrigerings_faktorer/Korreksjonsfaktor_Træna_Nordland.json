@@ -1,0 +1,19 @@
+{
+  "kommune": "Træna",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.85,
+    "Sykehus": 0.89,
+    "Sykehjem": 0.96,
+    "Småhus": 0.97,
+    "Skolebygning": 0.94,
+    "Kulturbygning": 0.97,
+    "Kontorbygning": 0.9,
+    "Lett industribygning, verksted": 0.96,
+    "Idrettsbygning": 0.85,
+    "Hotellbygning": 0.94,
+    "Forretningsbygning": 0.55,
+    "Boligblokk": 1.0,
+    "Barnehage": 1.01
+  }
+}

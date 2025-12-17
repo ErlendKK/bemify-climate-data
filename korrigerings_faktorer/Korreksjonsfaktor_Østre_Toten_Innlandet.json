@@ -1,0 +1,19 @@
+{
+  "kommune": "Østre Toten",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.32,
+    "Sykehus": 1.27,
+    "Sykehjem": 1.24,
+    "Småhus": 1.37,
+    "Skolebygning": 1.32,
+    "Kulturbygning": 1.29,
+    "Kontorbygning": 1.31,
+    "Lett industribygning, verksted": 1.31,
+    "Idrettsbygning": 1.4,
+    "Hotellbygning": 1.29,
+    "Forretningsbygning": 1.37,
+    "Boligblokk": 1.45,
+    "Barnehage": 1.23
+  }
+}

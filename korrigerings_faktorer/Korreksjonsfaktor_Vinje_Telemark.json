@@ -1,0 +1,19 @@
+{
+  "kommune": "Vinje",
+  "fylke": "Telemark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.21,
+    "Sykehus": 1.16,
+    "Sykehjem": 1.17,
+    "Småhus": 1.32,
+    "Skolebygning": 1.26,
+    "Kulturbygning": 1.22,
+    "Kontorbygning": 1.2,
+    "Lett industribygning, verksted": 1.25,
+    "Idrettsbygning": 1.33,
+    "Hotellbygning": 1.22,
+    "Forretningsbygning": 1.14,
+    "Boligblokk": 1.36,
+    "Barnehage": 1.2
+  }
+}

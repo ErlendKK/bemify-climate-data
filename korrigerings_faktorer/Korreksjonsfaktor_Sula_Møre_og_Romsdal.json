@@ -1,0 +1,19 @@
+{
+  "kommune": "Sula",
+  "fylke": "Møre og Romsdal",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.96,
+    "Sykehus": 0.99,
+    "Sykehjem": 1.03,
+    "Småhus": 1.01,
+    "Skolebygning": 1.02,
+    "Kulturbygning": 1.04,
+    "Kontorbygning": 1.0,
+    "Lett industribygning, verksted": 1.02,
+    "Idrettsbygning": 0.93,
+    "Hotellbygning": 1.02,
+    "Forretningsbygning": 0.72,
+    "Boligblokk": 1.03,
+    "Barnehage": 1.05
+  }
+}

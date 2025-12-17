@@ -1,0 +1,19 @@
+{
+  "kommune": "Åfjord",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.1,
+    "Sykehus": 1.08,
+    "Sykehjem": 1.1,
+    "Småhus": 1.16,
+    "Skolebygning": 1.14,
+    "Kulturbygning": 1.14,
+    "Kontorbygning": 1.12,
+    "Lett industribygning, verksted": 1.14,
+    "Idrettsbygning": 1.12,
+    "Hotellbygning": 1.12,
+    "Forretningsbygning": 0.95,
+    "Boligblokk": 1.21,
+    "Barnehage": 1.11
+  }
+}

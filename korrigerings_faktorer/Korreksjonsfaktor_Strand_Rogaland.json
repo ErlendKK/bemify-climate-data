@@ -1,0 +1,19 @@
+{
+  "kommune": "Strand",
+  "fylke": "Rogaland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.83,
+    "Sykehus": 0.9,
+    "Sykehjem": 0.93,
+    "Småhus": 0.86,
+    "Skolebygning": 0.86,
+    "Kulturbygning": 0.91,
+    "Kontorbygning": 0.86,
+    "Lett industribygning, verksted": 0.89,
+    "Idrettsbygning": 0.78,
+    "Hotellbygning": 0.91,
+    "Forretningsbygning": 0.67,
+    "Boligblokk": 0.85,
+    "Barnehage": 0.95
+  }
+}

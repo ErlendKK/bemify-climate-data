@@ -1,0 +1,19 @@
+{
+  "kommune": "Tysnes",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.96,
+    "Sykehus": 0.99,
+    "Sykehjem": 1.03,
+    "Småhus": 0.98,
+    "Skolebygning": 1.01,
+    "Kulturbygning": 1.04,
+    "Kontorbygning": 0.99,
+    "Lett industribygning, verksted": 1.02,
+    "Idrettsbygning": 0.89,
+    "Hotellbygning": 1.02,
+    "Forretningsbygning": 0.71,
+    "Boligblokk": 0.98,
+    "Barnehage": 1.05
+  }
+}

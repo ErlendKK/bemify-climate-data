@@ -1,0 +1,19 @@
+{
+  "kommune": "Vefsn",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.24,
+    "Sykehus": 1.18,
+    "Sykehjem": 1.19,
+    "Småhus": 1.3,
+    "Skolebygning": 1.27,
+    "Kulturbygning": 1.25,
+    "Kontorbygning": 1.24,
+    "Lett industribygning, verksted": 1.26,
+    "Idrettsbygning": 1.28,
+    "Hotellbygning": 1.22,
+    "Forretningsbygning": 1.15,
+    "Boligblokk": 1.39,
+    "Barnehage": 1.2
+  }
+}

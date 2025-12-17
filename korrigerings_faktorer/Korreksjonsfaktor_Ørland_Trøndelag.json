@@ -1,0 +1,19 @@
+{
+  "kommune": "Ørland",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.97,
+    "Sykehus": 0.98,
+    "Sykehjem": 1.02,
+    "Småhus": 1.03,
+    "Skolebygning": 1.01,
+    "Kulturbygning": 1.04,
+    "Kontorbygning": 1.0,
+    "Lett industribygning, verksted": 1.03,
+    "Idrettsbygning": 0.96,
+    "Hotellbygning": 1.02,
+    "Forretningsbygning": 0.78,
+    "Boligblokk": 1.05,
+    "Barnehage": 1.05
+  }
+}

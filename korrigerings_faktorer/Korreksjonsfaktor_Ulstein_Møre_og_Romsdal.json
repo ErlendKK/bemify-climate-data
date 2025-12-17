@@ -1,0 +1,19 @@
+{
+  "kommune": "Ulstein",
+  "fylke": "Møre og Romsdal",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.86,
+    "Sykehus": 0.9,
+    "Sykehjem": 0.95,
+    "Småhus": 0.92,
+    "Skolebygning": 0.92,
+    "Kulturbygning": 0.95,
+    "Kontorbygning": 0.9,
+    "Lett industribygning, verksted": 0.94,
+    "Idrettsbygning": 0.82,
+    "Hotellbygning": 0.94,
+    "Forretningsbygning": 0.63,
+    "Boligblokk": 0.93,
+    "Barnehage": 0.99
+  }
+}

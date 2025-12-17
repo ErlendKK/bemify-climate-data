@@ -1,0 +1,19 @@
+{
+  "kommune": "Øyer",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.28,
+    "Sykehus": 1.23,
+    "Sykehjem": 1.21,
+    "Småhus": 1.31,
+    "Skolebygning": 1.28,
+    "Kulturbygning": 1.26,
+    "Kontorbygning": 1.27,
+    "Lett industribygning, verksted": 1.27,
+    "Idrettsbygning": 1.33,
+    "Hotellbygning": 1.25,
+    "Forretningsbygning": 1.33,
+    "Boligblokk": 1.39,
+    "Barnehage": 1.2
+  }
+}

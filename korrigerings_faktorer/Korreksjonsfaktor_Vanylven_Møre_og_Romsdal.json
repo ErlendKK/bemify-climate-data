@@ -1,0 +1,19 @@
+{
+  "kommune": "Vanylven",
+  "fylke": "Møre og Romsdal",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.98,
+    "Sykehus": 0.97,
+    "Sykehjem": 1.02,
+    "Småhus": 1.06,
+    "Skolebygning": 1.02,
+    "Kulturbygning": 1.04,
+    "Kontorbygning": 1.01,
+    "Lett industribygning, verksted": 1.05,
+    "Idrettsbygning": 0.98,
+    "Hotellbygning": 1.02,
+    "Forretningsbygning": 0.76,
+    "Boligblokk": 1.08,
+    "Barnehage": 1.06
+  }
+}

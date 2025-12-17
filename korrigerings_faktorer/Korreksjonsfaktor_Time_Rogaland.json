@@ -1,0 +1,19 @@
+{
+  "kommune": "Time",
+  "fylke": "Rogaland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.81,
+    "Sykehus": 0.86,
+    "Sykehjem": 0.92,
+    "Småhus": 0.87,
+    "Skolebygning": 0.86,
+    "Kulturbygning": 0.9,
+    "Kontorbygning": 0.84,
+    "Lett industribygning, verksted": 0.89,
+    "Idrettsbygning": 0.77,
+    "Hotellbygning": 0.89,
+    "Forretningsbygning": 0.59,
+    "Boligblokk": 0.85,
+    "Barnehage": 0.96
+  }
+}

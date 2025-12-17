@@ -1,0 +1,19 @@
+{
+  "kommune": "Steigen",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.28,
+    "Sykehus": 1.2,
+    "Sykehjem": 1.21,
+    "Småhus": 1.37,
+    "Skolebygning": 1.34,
+    "Kulturbygning": 1.3,
+    "Kontorbygning": 1.3,
+    "Lett industribygning, verksted": 1.31,
+    "Idrettsbygning": 1.35,
+    "Hotellbygning": 1.26,
+    "Forretningsbygning": 1.13,
+    "Boligblokk": 1.48,
+    "Barnehage": 1.23
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kommune": "Tana",
+  "fylke": "Finnmark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.88,
+    "Sykehus": 1.77,
+    "Sykehjem": 1.68,
+    "Småhus": 1.98,
+    "Skolebygning": 1.95,
+    "Kulturbygning": 1.79,
+    "Kontorbygning": 1.85,
+    "Lett industribygning, verksted": 1.83,
+    "Idrettsbygning": 2.12,
+    "Hotellbygning": 1.76,
+    "Forretningsbygning": 1.99,
+    "Boligblokk": 2.24,
+    "Barnehage": 1.61
+  }
+}

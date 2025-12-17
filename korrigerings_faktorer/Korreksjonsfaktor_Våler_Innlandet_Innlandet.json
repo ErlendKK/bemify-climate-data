@@ -1,0 +1,19 @@
+{
+  "kommune": "Våler (Innlandet)",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.3,
+    "Sykehus": 1.27,
+    "Sykehjem": 1.23,
+    "Småhus": 1.29,
+    "Skolebygning": 1.28,
+    "Kulturbygning": 1.25,
+    "Kontorbygning": 1.27,
+    "Lett industribygning, verksted": 1.26,
+    "Idrettsbygning": 1.33,
+    "Hotellbygning": 1.26,
+    "Forretningsbygning": 1.41,
+    "Boligblokk": 1.37,
+    "Barnehage": 1.19
+  }
+}

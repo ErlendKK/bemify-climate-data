@@ -1,0 +1,19 @@
+{
+  "kommune": "Ålesund",
+  "fylke": "Møre og Romsdal",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.88,
+    "Sykehus": 0.91,
+    "Sykehjem": 0.97,
+    "Småhus": 0.93,
+    "Skolebygning": 0.94,
+    "Kulturbygning": 0.97,
+    "Kontorbygning": 0.92,
+    "Lett industribygning, verksted": 0.95,
+    "Idrettsbygning": 0.84,
+    "Hotellbygning": 0.95,
+    "Forretningsbygning": 0.61,
+    "Boligblokk": 0.95,
+    "Barnehage": 1.0
+  }
+}

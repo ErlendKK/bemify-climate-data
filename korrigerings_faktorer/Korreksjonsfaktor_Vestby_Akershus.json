@@ -1,0 +1,19 @@
+{
+  "kommune": "Vestby",
+  "fylke": "Akershus",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.15,
+    "Sykehus": 1.13,
+    "Sykehjem": 1.12,
+    "Småhus": 1.15,
+    "Skolebygning": 1.13,
+    "Kulturbygning": 1.13,
+    "Kontorbygning": 1.14,
+    "Lett industribygning, verksted": 1.14,
+    "Idrettsbygning": 1.17,
+    "Hotellbygning": 1.13,
+    "Forretningsbygning": 1.16,
+    "Boligblokk": 1.21,
+    "Barnehage": 1.11
+  }
+}

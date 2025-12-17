@@ -1,0 +1,19 @@
+{
+  "kommune": "Stor-Elvdal",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.39,
+    "Sykehus": 1.32,
+    "Sykehjem": 1.29,
+    "Småhus": 1.46,
+    "Skolebygning": 1.4,
+    "Kulturbygning": 1.35,
+    "Kontorbygning": 1.36,
+    "Lett industribygning, verksted": 1.38,
+    "Idrettsbygning": 1.5,
+    "Hotellbygning": 1.34,
+    "Forretningsbygning": 1.46,
+    "Boligblokk": 1.56,
+    "Barnehage": 1.29
+  }
+}

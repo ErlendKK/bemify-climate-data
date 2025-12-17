@@ -1,0 +1,19 @@
+{
+  "kommune": "Tønsberg",
+  "fylke": "Vestfold",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.05,
+    "Sykehus": 1.05,
+    "Sykehjem": 1.04,
+    "Småhus": 1.03,
+    "Skolebygning": 1.03,
+    "Kulturbygning": 1.04,
+    "Kontorbygning": 1.05,
+    "Lett industribygning, verksted": 1.04,
+    "Idrettsbygning": 1.03,
+    "Hotellbygning": 1.04,
+    "Forretningsbygning": 1.03,
+    "Boligblokk": 1.05,
+    "Barnehage": 1.03
+  }
+}

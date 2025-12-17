@@ -1,0 +1,19 @@
+{
+  "kommune": "Verdal",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.19,
+    "Sykehus": 1.15,
+    "Sykehjem": 1.15,
+    "Småhus": 1.22,
+    "Skolebygning": 1.2,
+    "Kulturbygning": 1.2,
+    "Kontorbygning": 1.2,
+    "Lett industribygning, verksted": 1.19,
+    "Idrettsbygning": 1.2,
+    "Hotellbygning": 1.18,
+    "Forretningsbygning": 1.11,
+    "Boligblokk": 1.3,
+    "Barnehage": 1.15
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kommune": "Vaksdal",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.99,
+    "Sykehus": 1.01,
+    "Sykehjem": 1.04,
+    "Småhus": 1.02,
+    "Skolebygning": 1.03,
+    "Kulturbygning": 1.05,
+    "Kontorbygning": 1.02,
+    "Lett industribygning, verksted": 1.04,
+    "Idrettsbygning": 0.96,
+    "Hotellbygning": 1.04,
+    "Forretningsbygning": 0.81,
+    "Boligblokk": 1.03,
+    "Barnehage": 1.05
+  }
+}

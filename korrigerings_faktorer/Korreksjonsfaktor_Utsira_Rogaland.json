@@ -1,0 +1,19 @@
+{
+  "kommune": "Utsira",
+  "fylke": "Rogaland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.65,
+    "Sykehus": 0.74,
+    "Sykehjem": 0.81,
+    "Småhus": 0.72,
+    "Skolebygning": 0.71,
+    "Kulturbygning": 0.77,
+    "Kontorbygning": 0.69,
+    "Lett industribygning, verksted": 0.75,
+    "Idrettsbygning": 0.58,
+    "Hotellbygning": 0.76,
+    "Forretningsbygning": 0.39,
+    "Boligblokk": 0.69,
+    "Barnehage": 0.87
+  }
+}

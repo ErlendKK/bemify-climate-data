@@ -1,0 +1,19 @@
+{
+  "kommune": "Vadsø",
+  "fylke": "Finnmark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.51,
+    "Sykehus": 1.41,
+    "Sykehjem": 1.39,
+    "Småhus": 1.65,
+    "Skolebygning": 1.59,
+    "Kulturbygning": 1.5,
+    "Kontorbygning": 1.51,
+    "Lett industribygning, verksted": 1.54,
+    "Idrettsbygning": 1.7,
+    "Hotellbygning": 1.47,
+    "Forretningsbygning": 1.45,
+    "Boligblokk": 1.83,
+    "Barnehage": 1.4
+  }
+}

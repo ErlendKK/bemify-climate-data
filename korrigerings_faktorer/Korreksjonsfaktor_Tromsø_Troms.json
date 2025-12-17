@@ -1,0 +1,19 @@
+{
+  "kommune": "Tromsø",
+  "fylke": "Troms",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.34,
+    "Sykehus": 1.26,
+    "Sykehjem": 1.26,
+    "Småhus": 1.49,
+    "Skolebygning": 1.41,
+    "Kulturbygning": 1.35,
+    "Kontorbygning": 1.35,
+    "Lett industribygning, verksted": 1.37,
+    "Idrettsbygning": 1.49,
+    "Hotellbygning": 1.32,
+    "Forretningsbygning": 1.23,
+    "Boligblokk": 1.62,
+    "Barnehage": 1.28
+  }
+}

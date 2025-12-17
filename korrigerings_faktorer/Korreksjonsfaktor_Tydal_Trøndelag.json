@@ -1,0 +1,19 @@
+{
+  "kommune": "Tydal",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.44,
+    "Sykehus": 1.35,
+    "Sykehjem": 1.33,
+    "Småhus": 1.58,
+    "Skolebygning": 1.52,
+    "Kulturbygning": 1.43,
+    "Kontorbygning": 1.43,
+    "Lett industribygning, verksted": 1.47,
+    "Idrettsbygning": 1.66,
+    "Hotellbygning": 1.4,
+    "Forretningsbygning": 1.41,
+    "Boligblokk": 1.69,
+    "Barnehage": 1.36
+  }
+}

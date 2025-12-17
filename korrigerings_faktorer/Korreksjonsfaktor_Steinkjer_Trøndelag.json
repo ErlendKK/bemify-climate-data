@@ -1,0 +1,19 @@
+{
+  "kommune": "Steinkjer",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.24,
+    "Sykehus": 1.21,
+    "Sykehjem": 1.2,
+    "Småhus": 1.29,
+    "Skolebygning": 1.26,
+    "Kulturbygning": 1.25,
+    "Kontorbygning": 1.25,
+    "Lett industribygning, verksted": 1.25,
+    "Idrettsbygning": 1.27,
+    "Hotellbygning": 1.24,
+    "Forretningsbygning": 1.2,
+    "Boligblokk": 1.38,
+    "Barnehage": 1.19
+  }
+}

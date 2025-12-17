@@ -1,0 +1,19 @@
+{
+  "kommune": "Trondheim",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.01,
+    "Sykehus": 1.02,
+    "Sykehjem": 1.04,
+    "Småhus": 1.05,
+    "Skolebygning": 1.04,
+    "Kulturbygning": 1.05,
+    "Kontorbygning": 1.03,
+    "Lett industribygning, verksted": 1.04,
+    "Idrettsbygning": 1.0,
+    "Hotellbygning": 1.04,
+    "Forretningsbygning": 0.88,
+    "Boligblokk": 1.1,
+    "Barnehage": 1.05
+  }
+}

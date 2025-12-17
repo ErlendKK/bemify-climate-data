@@ -1,0 +1,19 @@
+{
+  "kommune": "Valle",
+  "fylke": "Agder",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.99,
+    "Sykehus": 0.98,
+    "Sykehjem": 1.0,
+    "Småhus": 1.06,
+    "Skolebygning": 1.02,
+    "Kulturbygning": 1.01,
+    "Kontorbygning": 0.99,
+    "Lett industribygning, verksted": 1.04,
+    "Idrettsbygning": 1.06,
+    "Hotellbygning": 1.02,
+    "Forretningsbygning": 0.93,
+    "Boligblokk": 1.03,
+    "Barnehage": 1.05
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kommune": "Værøy",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.94,
+    "Sykehus": 0.94,
+    "Sykehjem": 1.0,
+    "Småhus": 1.07,
+    "Skolebygning": 1.01,
+    "Kulturbygning": 1.04,
+    "Kontorbygning": 0.99,
+    "Lett industribygning, verksted": 1.04,
+    "Idrettsbygning": 0.97,
+    "Hotellbygning": 1.01,
+    "Forretningsbygning": 0.64,
+    "Boligblokk": 1.11,
+    "Barnehage": 1.06
+  }
+}

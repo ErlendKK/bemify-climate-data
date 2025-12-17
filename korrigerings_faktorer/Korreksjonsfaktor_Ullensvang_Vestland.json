@@ -1,0 +1,19 @@
+{
+  "kommune": "Ullensvang",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.79,
+    "Sykehus": 0.83,
+    "Sykehjem": 0.85,
+    "Småhus": 0.79,
+    "Skolebygning": 0.77,
+    "Kulturbygning": 0.81,
+    "Kontorbygning": 0.8,
+    "Lett industribygning, verksted": 0.82,
+    "Idrettsbygning": 0.75,
+    "Hotellbygning": 0.82,
+    "Forretningsbygning": 0.75,
+    "Boligblokk": 0.76,
+    "Barnehage": 0.87
+  }
+}

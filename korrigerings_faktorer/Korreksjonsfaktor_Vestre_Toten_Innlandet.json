@@ -1,0 +1,19 @@
+{
+  "kommune": "Vestre Toten",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.33,
+    "Sykehus": 1.28,
+    "Sykehjem": 1.25,
+    "Småhus": 1.38,
+    "Skolebygning": 1.35,
+    "Kulturbygning": 1.3,
+    "Kontorbygning": 1.31,
+    "Lett industribygning, verksted": 1.32,
+    "Idrettsbygning": 1.41,
+    "Hotellbygning": 1.3,
+    "Forretningsbygning": 1.37,
+    "Boligblokk": 1.46,
+    "Barnehage": 1.24
+  }
+}

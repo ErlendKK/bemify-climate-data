@@ -1,0 +1,19 @@
+{
+  "kommune": "Ulvik",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.94,
+    "Sykehus": 0.94,
+    "Sykehjem": 0.96,
+    "Småhus": 1.01,
+    "Skolebygning": 0.94,
+    "Kulturbygning": 0.97,
+    "Kontorbygning": 0.95,
+    "Lett industribygning, verksted": 0.98,
+    "Idrettsbygning": 0.95,
+    "Hotellbygning": 0.97,
+    "Forretningsbygning": 0.85,
+    "Boligblokk": 1.0,
+    "Barnehage": 1.0
+  }
+}

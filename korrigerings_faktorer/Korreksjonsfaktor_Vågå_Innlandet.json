@@ -1,0 +1,19 @@
+{
+  "kommune": "Vågå",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.22,
+    "Sykehus": 1.17,
+    "Sykehjem": 1.16,
+    "Småhus": 1.31,
+    "Skolebygning": 1.25,
+    "Kulturbygning": 1.21,
+    "Kontorbygning": 1.2,
+    "Lett industribygning, verksted": 1.24,
+    "Idrettsbygning": 1.33,
+    "Hotellbygning": 1.2,
+    "Forretningsbygning": 1.22,
+    "Boligblokk": 1.39,
+    "Barnehage": 1.18
+  }
+}

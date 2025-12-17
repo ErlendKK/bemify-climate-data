@@ -1,0 +1,19 @@
+{
+  "kommune": "Ørsta",
+  "fylke": "Møre og Romsdal",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.02,
+    "Sykehus": 1.01,
+    "Sykehjem": 1.04,
+    "Småhus": 1.09,
+    "Skolebygning": 1.06,
+    "Kulturbygning": 1.07,
+    "Kontorbygning": 1.04,
+    "Lett industribygning, verksted": 1.07,
+    "Idrettsbygning": 1.04,
+    "Hotellbygning": 1.05,
+    "Forretningsbygning": 0.84,
+    "Boligblokk": 1.1,
+    "Barnehage": 1.08
+  }
+}

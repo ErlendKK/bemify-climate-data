@@ -1,0 +1,19 @@
+{
+  "kommune": "Sunndal",
+  "fylke": "Møre og Romsdal",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.83,
+    "Sykehus": 0.86,
+    "Sykehjem": 0.89,
+    "Småhus": 0.84,
+    "Skolebygning": 0.83,
+    "Kulturbygning": 0.86,
+    "Kontorbygning": 0.85,
+    "Lett industribygning, verksted": 0.86,
+    "Idrettsbygning": 0.78,
+    "Hotellbygning": 0.86,
+    "Forretningsbygning": 0.73,
+    "Boligblokk": 0.83,
+    "Barnehage": 0.92
+  }
+}

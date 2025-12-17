@@ -1,0 +1,19 @@
+{
+  "kommune": "Åmot",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.38,
+    "Sykehus": 1.32,
+    "Sykehjem": 1.29,
+    "Småhus": 1.44,
+    "Skolebygning": 1.4,
+    "Kulturbygning": 1.34,
+    "Kontorbygning": 1.35,
+    "Lett industribygning, verksted": 1.36,
+    "Idrettsbygning": 1.48,
+    "Hotellbygning": 1.33,
+    "Forretningsbygning": 1.44,
+    "Boligblokk": 1.54,
+    "Barnehage": 1.27
+  }
+}

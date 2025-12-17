@@ -1,0 +1,19 @@
+{
+  "kommune": "Vegårshei",
+  "fylke": "Agder",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.05,
+    "Sykehus": 1.04,
+    "Sykehjem": 1.05,
+    "Småhus": 1.09,
+    "Skolebygning": 1.06,
+    "Kulturbygning": 1.07,
+    "Kontorbygning": 1.05,
+    "Lett industribygning, verksted": 1.07,
+    "Idrettsbygning": 1.06,
+    "Hotellbygning": 1.07,
+    "Forretningsbygning": 0.98,
+    "Boligblokk": 1.08,
+    "Barnehage": 1.07
+  }
+}

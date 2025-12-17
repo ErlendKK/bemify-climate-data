@@ -1,0 +1,19 @@
+{
+  "kommune": "Vågan",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.12,
+    "Sykehus": 1.06,
+    "Sykehjem": 1.1,
+    "Småhus": 1.27,
+    "Skolebygning": 1.18,
+    "Kulturbygning": 1.18,
+    "Kontorbygning": 1.16,
+    "Lett industribygning, verksted": 1.19,
+    "Idrettsbygning": 1.19,
+    "Hotellbygning": 1.14,
+    "Forretningsbygning": 0.91,
+    "Boligblokk": 1.36,
+    "Barnehage": 1.15
+  }
+}

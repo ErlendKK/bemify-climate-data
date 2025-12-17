@@ -1,0 +1,19 @@
+{
+  "kommune": "Vik",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.81,
+    "Sykehus": 0.85,
+    "Sykehjem": 0.88,
+    "Småhus": 0.85,
+    "Skolebygning": 0.82,
+    "Kulturbygning": 0.86,
+    "Kontorbygning": 0.83,
+    "Lett industribygning, verksted": 0.86,
+    "Idrettsbygning": 0.79,
+    "Hotellbygning": 0.86,
+    "Forretningsbygning": 0.7,
+    "Boligblokk": 0.82,
+    "Barnehage": 0.91
+  }
+}

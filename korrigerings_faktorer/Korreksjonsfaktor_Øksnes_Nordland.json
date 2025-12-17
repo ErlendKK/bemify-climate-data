@@ -1,0 +1,19 @@
+{
+  "kommune": "Øksnes",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.27,
+    "Sykehus": 1.19,
+    "Sykehjem": 1.22,
+    "Småhus": 1.4,
+    "Skolebygning": 1.35,
+    "Kulturbygning": 1.31,
+    "Kontorbygning": 1.3,
+    "Lett industribygning, verksted": 1.32,
+    "Idrettsbygning": 1.38,
+    "Hotellbygning": 1.27,
+    "Forretningsbygning": 1.06,
+    "Boligblokk": 1.51,
+    "Barnehage": 1.25
+  }
+}

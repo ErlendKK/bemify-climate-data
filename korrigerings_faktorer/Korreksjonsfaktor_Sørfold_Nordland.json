@@ -1,0 +1,19 @@
+{
+  "kommune": "Sørfold",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.35,
+    "Sykehus": 1.28,
+    "Sykehjem": 1.27,
+    "Småhus": 1.44,
+    "Skolebygning": 1.4,
+    "Kulturbygning": 1.35,
+    "Kontorbygning": 1.36,
+    "Lett industribygning, verksted": 1.36,
+    "Idrettsbygning": 1.42,
+    "Hotellbygning": 1.32,
+    "Forretningsbygning": 1.25,
+    "Boligblokk": 1.57,
+    "Barnehage": 1.27
+  }
+}

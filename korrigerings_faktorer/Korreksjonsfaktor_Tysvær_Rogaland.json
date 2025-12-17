@@ -1,0 +1,19 @@
+{
+  "kommune": "Tysvær",
+  "fylke": "Rogaland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.95,
+    "Sykehus": 0.98,
+    "Sykehjem": 1.01,
+    "Småhus": 0.97,
+    "Skolebygning": 0.98,
+    "Kulturbygning": 1.0,
+    "Kontorbygning": 0.97,
+    "Lett industribygning, verksted": 0.99,
+    "Idrettsbygning": 0.9,
+    "Hotellbygning": 0.99,
+    "Forretningsbygning": 0.77,
+    "Boligblokk": 1.01,
+    "Barnehage": 1.02
+  }
+}

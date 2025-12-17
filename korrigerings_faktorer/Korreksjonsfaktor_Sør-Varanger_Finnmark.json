@@ -1,0 +1,19 @@
+{
+  "kommune": "Sør-Varanger",
+  "fylke": "Finnmark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.73,
+    "Sykehus": 1.64,
+    "Sykehjem": 1.57,
+    "Småhus": 1.84,
+    "Skolebygning": 1.78,
+    "Kulturbygning": 1.67,
+    "Kontorbygning": 1.71,
+    "Lett industribygning, verksted": 1.71,
+    "Idrettsbygning": 1.93,
+    "Hotellbygning": 1.64,
+    "Forretningsbygning": 1.8,
+    "Boligblokk": 2.06,
+    "Barnehage": 1.52
+  }
+}

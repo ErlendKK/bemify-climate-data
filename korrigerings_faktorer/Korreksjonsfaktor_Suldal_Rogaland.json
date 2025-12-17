@@ -1,0 +1,19 @@
+{
+  "kommune": "Suldal",
+  "fylke": "Rogaland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.86,
+    "Sykehus": 0.91,
+    "Sykehjem": 0.93,
+    "Småhus": 0.85,
+    "Skolebygning": 0.86,
+    "Kulturbygning": 0.9,
+    "Kontorbygning": 0.87,
+    "Lett industribygning, verksted": 0.88,
+    "Idrettsbygning": 0.8,
+    "Hotellbygning": 0.9,
+    "Forretningsbygning": 0.76,
+    "Boligblokk": 0.82,
+    "Barnehage": 0.94
+  }
+}

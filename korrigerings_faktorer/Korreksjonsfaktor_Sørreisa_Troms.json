@@ -1,0 +1,19 @@
+{
+  "kommune": "Sørreisa",
+  "fylke": "Troms",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.37,
+    "Sykehus": 1.29,
+    "Sykehjem": 1.29,
+    "Småhus": 1.48,
+    "Skolebygning": 1.43,
+    "Kulturbygning": 1.37,
+    "Kontorbygning": 1.38,
+    "Lett industribygning, verksted": 1.39,
+    "Idrettsbygning": 1.49,
+    "Hotellbygning": 1.34,
+    "Forretningsbygning": 1.29,
+    "Boligblokk": 1.62,
+    "Barnehage": 1.29
+  }
+}

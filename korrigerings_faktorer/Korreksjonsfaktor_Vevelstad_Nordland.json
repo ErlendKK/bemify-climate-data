@@ -1,0 +1,19 @@
+{
+  "kommune": "Vevelstad",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.22,
+    "Sykehus": 1.19,
+    "Sykehjem": 1.2,
+    "Småhus": 1.29,
+    "Skolebygning": 1.27,
+    "Kulturbygning": 1.26,
+    "Kontorbygning": 1.26,
+    "Lett industribygning, verksted": 1.26,
+    "Idrettsbygning": 1.23,
+    "Hotellbygning": 1.23,
+    "Forretningsbygning": 1.04,
+    "Boligblokk": 1.37,
+    "Barnehage": 1.2
+  }
+}

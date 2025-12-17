@@ -1,0 +1,19 @@
+{
+  "kommune": "Vestvågøy",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.17,
+    "Sykehus": 1.11,
+    "Sykehjem": 1.14,
+    "Småhus": 1.29,
+    "Skolebygning": 1.23,
+    "Kulturbygning": 1.22,
+    "Kontorbygning": 1.2,
+    "Lett industribygning, verksted": 1.23,
+    "Idrettsbygning": 1.23,
+    "Hotellbygning": 1.18,
+    "Forretningsbygning": 0.96,
+    "Boligblokk": 1.39,
+    "Barnehage": 1.18
+  }
+}
