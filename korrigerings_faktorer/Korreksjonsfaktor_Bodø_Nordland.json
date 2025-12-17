@@ -1,0 +1,19 @@
+{
+  "kommune": "Bodø",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.18,
+    "Sykehus": 1.13,
+    "Sykehjem": 1.16,
+    "Småhus": 1.28,
+    "Skolebygning": 1.23,
+    "Kulturbygning": 1.23,
+    "Kontorbygning": 1.22,
+    "Lett industribygning, verksted": 1.22,
+    "Idrettsbygning": 1.21,
+    "Hotellbygning": 1.19,
+    "Forretningsbygning": 0.96,
+    "Boligblokk": 1.37,
+    "Barnehage": 1.18
+  }
+}

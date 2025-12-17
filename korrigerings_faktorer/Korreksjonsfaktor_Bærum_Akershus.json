@@ -1,0 +1,19 @@
+{
+  "kommune": "Bærum",
+  "fylke": "Akershus",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.98,
+    "Sykehus": 0.98,
+    "Sykehjem": 0.99,
+    "Småhus": 0.99,
+    "Skolebygning": 0.98,
+    "Kulturbygning": 0.99,
+    "Kontorbygning": 0.98,
+    "Lett industribygning, verksted": 0.99,
+    "Idrettsbygning": 0.99,
+    "Hotellbygning": 0.99,
+    "Forretningsbygning": 0.97,
+    "Boligblokk": 0.99,
+    "Barnehage": 1.0
+  }
+}

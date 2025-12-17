@@ -1,0 +1,19 @@
+{
+  "kommune": "Aurland",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.88,
+    "Sykehus": 0.9,
+    "Sykehjem": 0.9,
+    "Småhus": 0.87,
+    "Skolebygning": 0.87,
+    "Kulturbygning": 0.89,
+    "Kontorbygning": 0.88,
+    "Lett industribygning, verksted": 0.89,
+    "Idrettsbygning": 0.85,
+    "Hotellbygning": 0.9,
+    "Forretningsbygning": 0.85,
+    "Boligblokk": 0.84,
+    "Barnehage": 0.92
+  }
+}

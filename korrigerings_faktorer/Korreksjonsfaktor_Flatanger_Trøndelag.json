@@ -1,0 +1,19 @@
+{
+  "kommune": "Flatanger",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.09,
+    "Sykehus": 1.08,
+    "Sykehjem": 1.1,
+    "Småhus": 1.16,
+    "Skolebygning": 1.14,
+    "Kulturbygning": 1.14,
+    "Kontorbygning": 1.11,
+    "Lett industribygning, verksted": 1.14,
+    "Idrettsbygning": 1.1,
+    "Hotellbygning": 1.12,
+    "Forretningsbygning": 0.89,
+    "Boligblokk": 1.21,
+    "Barnehage": 1.12
+  }
+}

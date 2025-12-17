@@ -1,0 +1,19 @@
+{
+  "kommune": "Enebakk",
+  "fylke": "Akershus",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.15,
+    "Sykehus": 1.12,
+    "Sykehjem": 1.11,
+    "Småhus": 1.18,
+    "Skolebygning": 1.14,
+    "Kulturbygning": 1.14,
+    "Kontorbygning": 1.14,
+    "Lett industribygning, verksted": 1.15,
+    "Idrettsbygning": 1.18,
+    "Hotellbygning": 1.14,
+    "Forretningsbygning": 1.17,
+    "Boligblokk": 1.21,
+    "Barnehage": 1.12
+  }
+}

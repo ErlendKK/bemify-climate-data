@@ -1,0 +1,19 @@
+{
+  "kommune": "Dyrøy",
+  "fylke": "Troms",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.35,
+    "Sykehus": 1.27,
+    "Sykehjem": 1.27,
+    "Småhus": 1.46,
+    "Skolebygning": 1.4,
+    "Kulturbygning": 1.35,
+    "Kontorbygning": 1.37,
+    "Lett industribygning, verksted": 1.37,
+    "Idrettsbygning": 1.44,
+    "Hotellbygning": 1.32,
+    "Forretningsbygning": 1.24,
+    "Boligblokk": 1.58,
+    "Barnehage": 1.28
+  }
+}

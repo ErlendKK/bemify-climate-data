@@ -1,0 +1,19 @@
+{
+  "kommune": "Bjørnafjorden",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.85,
+    "Sykehus": 0.89,
+    "Sykehjem": 0.94,
+    "Småhus": 0.9,
+    "Skolebygning": 0.89,
+    "Kulturbygning": 0.93,
+    "Kontorbygning": 0.88,
+    "Lett industribygning, verksted": 0.91,
+    "Idrettsbygning": 0.8,
+    "Hotellbygning": 0.92,
+    "Forretningsbygning": 0.65,
+    "Boligblokk": 0.9,
+    "Barnehage": 0.97
+  }
+}

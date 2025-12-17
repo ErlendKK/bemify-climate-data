@@ -1,0 +1,19 @@
+{
+  "kommune": "Engerdal",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.42,
+    "Sykehus": 1.34,
+    "Sykehjem": 1.32,
+    "Småhus": 1.53,
+    "Skolebygning": 1.47,
+    "Kulturbygning": 1.4,
+    "Kontorbygning": 1.4,
+    "Lett industribygning, verksted": 1.44,
+    "Idrettsbygning": 1.58,
+    "Hotellbygning": 1.39,
+    "Forretningsbygning": 1.4,
+    "Boligblokk": 1.63,
+    "Barnehage": 1.34
+  }
+}

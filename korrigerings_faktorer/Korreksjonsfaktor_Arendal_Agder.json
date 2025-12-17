@@ -1,0 +1,19 @@
+{
+  "kommune": "Arendal",
+  "fylke": "Agder",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.95,
+    "Sykehus": 0.99,
+    "Sykehjem": 0.99,
+    "Småhus": 0.94,
+    "Skolebygning": 0.94,
+    "Kulturbygning": 0.98,
+    "Kontorbygning": 0.96,
+    "Lett industribygning, verksted": 0.97,
+    "Idrettsbygning": 0.9,
+    "Hotellbygning": 0.98,
+    "Forretningsbygning": 0.89,
+    "Boligblokk": 0.94,
+    "Barnehage": 1.0
+  }
+}

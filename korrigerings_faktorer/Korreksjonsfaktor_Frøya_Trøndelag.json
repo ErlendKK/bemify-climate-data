@@ -1,0 +1,19 @@
+{
+  "kommune": "Frøya",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.84,
+    "Sykehus": 0.88,
+    "Sykehjem": 0.94,
+    "Småhus": 0.92,
+    "Skolebygning": 0.91,
+    "Kulturbygning": 0.94,
+    "Kontorbygning": 0.88,
+    "Lett industribygning, verksted": 0.94,
+    "Idrettsbygning": 0.81,
+    "Hotellbygning": 0.92,
+    "Forretningsbygning": 0.54,
+    "Boligblokk": 0.92,
+    "Barnehage": 0.99
+  }
+}

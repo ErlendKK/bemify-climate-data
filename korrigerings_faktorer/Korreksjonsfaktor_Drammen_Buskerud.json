@@ -1,0 +1,19 @@
+{
+  "kommune": "Drammen",
+  "fylke": "Buskerud",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.07,
+    "Sykehus": 1.07,
+    "Sykehjem": 1.06,
+    "Småhus": 1.05,
+    "Skolebygning": 1.06,
+    "Kulturbygning": 1.06,
+    "Kontorbygning": 1.07,
+    "Lett industribygning, verksted": 1.06,
+    "Idrettsbygning": 1.07,
+    "Hotellbygning": 1.07,
+    "Forretningsbygning": 1.13,
+    "Boligblokk": 1.08,
+    "Barnehage": 1.04
+  }
+}

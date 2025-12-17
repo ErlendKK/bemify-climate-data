@@ -1,0 +1,19 @@
+{
+  "kommune": "Fjord",
+  "fylke": "Møre og Romsdal",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.96,
+    "Sykehus": 0.97,
+    "Sykehjem": 0.99,
+    "Småhus": 0.98,
+    "Skolebygning": 0.98,
+    "Kulturbygning": 1.0,
+    "Kontorbygning": 0.98,
+    "Lett industribygning, verksted": 0.99,
+    "Idrettsbygning": 0.93,
+    "Hotellbygning": 0.98,
+    "Forretningsbygning": 0.85,
+    "Boligblokk": 1.0,
+    "Barnehage": 1.01
+  }
+}

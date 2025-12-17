@@ -1,0 +1,19 @@
+{
+  "kommune": "Frosta",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.08,
+    "Sykehus": 1.06,
+    "Sykehjem": 1.08,
+    "Småhus": 1.14,
+    "Skolebygning": 1.12,
+    "Kulturbygning": 1.12,
+    "Kontorbygning": 1.1,
+    "Lett industribygning, verksted": 1.12,
+    "Idrettsbygning": 1.1,
+    "Hotellbygning": 1.11,
+    "Forretningsbygning": 0.93,
+    "Boligblokk": 1.2,
+    "Barnehage": 1.11
+  }
+}

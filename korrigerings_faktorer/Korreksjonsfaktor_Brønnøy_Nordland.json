@@ -1,0 +1,19 @@
+{
+  "kommune": "Brønnøy",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.1,
+    "Sykehus": 1.07,
+    "Sykehjem": 1.1,
+    "Småhus": 1.18,
+    "Skolebygning": 1.13,
+    "Kulturbygning": 1.15,
+    "Kontorbygning": 1.13,
+    "Lett industribygning, verksted": 1.15,
+    "Idrettsbygning": 1.13,
+    "Hotellbygning": 1.12,
+    "Forretningsbygning": 0.93,
+    "Boligblokk": 1.25,
+    "Barnehage": 1.12
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kommune": "Eigersund",
+  "fylke": "Rogaland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.83,
+    "Sykehus": 0.89,
+    "Sykehjem": 0.93,
+    "Småhus": 0.87,
+    "Skolebygning": 0.87,
+    "Kulturbygning": 0.91,
+    "Kontorbygning": 0.86,
+    "Lett industribygning, verksted": 0.89,
+    "Idrettsbygning": 0.79,
+    "Hotellbygning": 0.91,
+    "Forretningsbygning": 0.64,
+    "Boligblokk": 0.87,
+    "Barnehage": 0.96
+  }
+}

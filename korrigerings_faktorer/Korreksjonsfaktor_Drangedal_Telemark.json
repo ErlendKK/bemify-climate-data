@@ -1,0 +1,19 @@
+{
+  "kommune": "Drangedal",
+  "fylke": "Telemark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.12,
+    "Sykehus": 1.12,
+    "Sykehjem": 1.1,
+    "Småhus": 1.11,
+    "Skolebygning": 1.09,
+    "Kulturbygning": 1.11,
+    "Kontorbygning": 1.11,
+    "Lett industribygning, verksted": 1.11,
+    "Idrettsbygning": 1.12,
+    "Hotellbygning": 1.12,
+    "Forretningsbygning": 1.14,
+    "Boligblokk": 1.14,
+    "Barnehage": 1.08
+  }
+}

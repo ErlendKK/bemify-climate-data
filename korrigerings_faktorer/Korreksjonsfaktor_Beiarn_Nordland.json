@@ -1,0 +1,19 @@
+{
+  "kommune": "Beiarn",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.17,
+    "Sykehus": 1.13,
+    "Sykehjem": 1.14,
+    "Småhus": 1.28,
+    "Skolebygning": 1.2,
+    "Kulturbygning": 1.18,
+    "Kontorbygning": 1.19,
+    "Lett industribygning, verksted": 1.2,
+    "Idrettsbygning": 1.24,
+    "Hotellbygning": 1.17,
+    "Forretningsbygning": 1.07,
+    "Boligblokk": 1.38,
+    "Barnehage": 1.15
+  }
+}

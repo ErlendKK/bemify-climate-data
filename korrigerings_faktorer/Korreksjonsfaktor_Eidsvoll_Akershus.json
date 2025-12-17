@@ -1,0 +1,19 @@
+{
+  "kommune": "Eidsvoll",
+  "fylke": "Akershus",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.24,
+    "Sykehus": 1.2,
+    "Sykehjem": 1.18,
+    "Småhus": 1.28,
+    "Skolebygning": 1.24,
+    "Kulturbygning": 1.21,
+    "Kontorbygning": 1.23,
+    "Lett industribygning, verksted": 1.23,
+    "Idrettsbygning": 1.3,
+    "Hotellbygning": 1.21,
+    "Forretningsbygning": 1.29,
+    "Boligblokk": 1.35,
+    "Barnehage": 1.17
+  }
+}

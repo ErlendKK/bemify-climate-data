@@ -1,0 +1,19 @@
+{
+  "kommune": "Askøy",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.87,
+    "Sykehus": 0.91,
+    "Sykehjem": 0.96,
+    "Småhus": 0.92,
+    "Skolebygning": 0.91,
+    "Kulturbygning": 0.95,
+    "Kontorbygning": 0.9,
+    "Lett industribygning, verksted": 0.94,
+    "Idrettsbygning": 0.83,
+    "Hotellbygning": 0.94,
+    "Forretningsbygning": 0.69,
+    "Boligblokk": 0.92,
+    "Barnehage": 0.98
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kommune": "Fredrikstad",
+  "fylke": "Østfold",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.98,
+    "Sykehus": 1.0,
+    "Sykehjem": 1.0,
+    "Småhus": 0.98,
+    "Skolebygning": 0.97,
+    "Kulturbygning": 0.99,
+    "Kontorbygning": 0.99,
+    "Lett industribygning, verksted": 1.0,
+    "Idrettsbygning": 0.95,
+    "Hotellbygning": 1.0,
+    "Forretningsbygning": 0.94,
+    "Boligblokk": 0.98,
+    "Barnehage": 1.0
+  }
+}

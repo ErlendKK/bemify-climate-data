@@ -1,0 +1,19 @@
+{
+  "kommune": "Bømlo",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.85,
+    "Sykehus": 0.89,
+    "Sykehjem": 0.95,
+    "Småhus": 0.9,
+    "Skolebygning": 0.89,
+    "Kulturbygning": 0.94,
+    "Kontorbygning": 0.89,
+    "Lett industribygning, verksted": 0.93,
+    "Idrettsbygning": 0.79,
+    "Hotellbygning": 0.92,
+    "Forretningsbygning": 0.61,
+    "Boligblokk": 0.89,
+    "Barnehage": 0.99
+  }
+}

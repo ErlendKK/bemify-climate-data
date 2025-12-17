@@ -1,0 +1,19 @@
+{
+  "kommune": "Bergen",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.93,
+    "Sykehus": 0.97,
+    "Sykehjem": 1.01,
+    "Småhus": 0.94,
+    "Skolebygning": 0.97,
+    "Kulturbygning": 1.0,
+    "Kontorbygning": 0.97,
+    "Lett industribygning, verksted": 0.98,
+    "Idrettsbygning": 0.86,
+    "Hotellbygning": 0.99,
+    "Forretningsbygning": 0.74,
+    "Boligblokk": 0.95,
+    "Barnehage": 1.02
+  }
+}

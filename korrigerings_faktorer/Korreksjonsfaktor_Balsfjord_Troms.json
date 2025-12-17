@@ -1,0 +1,19 @@
+{
+  "kommune": "Balsfjord",
+  "fylke": "Troms",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.43,
+    "Sykehus": 1.33,
+    "Sykehjem": 1.31,
+    "Småhus": 1.55,
+    "Skolebygning": 1.49,
+    "Kulturbygning": 1.41,
+    "Kontorbygning": 1.43,
+    "Lett industribygning, verksted": 1.44,
+    "Idrettsbygning": 1.57,
+    "Hotellbygning": 1.39,
+    "Forretningsbygning": 1.38,
+    "Boligblokk": 1.71,
+    "Barnehage": 1.32
+  }
+}

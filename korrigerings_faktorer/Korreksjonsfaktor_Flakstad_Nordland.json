@@ -1,0 +1,19 @@
+{
+  "kommune": "Flakstad",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.17,
+    "Sykehus": 1.12,
+    "Sykehjem": 1.15,
+    "Småhus": 1.29,
+    "Skolebygning": 1.24,
+    "Kulturbygning": 1.23,
+    "Kontorbygning": 1.21,
+    "Lett industribygning, verksted": 1.23,
+    "Idrettsbygning": 1.22,
+    "Hotellbygning": 1.19,
+    "Forretningsbygning": 0.93,
+    "Boligblokk": 1.38,
+    "Barnehage": 1.19
+  }
+}

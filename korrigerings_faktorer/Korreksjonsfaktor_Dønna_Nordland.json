@@ -1,0 +1,19 @@
+{
+  "kommune": "Dønna",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.07,
+    "Sykehus": 1.06,
+    "Sykehjem": 1.09,
+    "Småhus": 1.16,
+    "Skolebygning": 1.13,
+    "Kulturbygning": 1.13,
+    "Kontorbygning": 1.1,
+    "Lett industribygning, verksted": 1.14,
+    "Idrettsbygning": 1.09,
+    "Hotellbygning": 1.11,
+    "Forretningsbygning": 0.87,
+    "Boligblokk": 1.23,
+    "Barnehage": 1.12
+  }
+}

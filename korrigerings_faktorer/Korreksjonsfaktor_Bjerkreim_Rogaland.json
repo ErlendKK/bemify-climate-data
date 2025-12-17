@@ -1,0 +1,19 @@
+{
+  "kommune": "Bjerkreim",
+  "fylke": "Rogaland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.89,
+    "Sykehus": 0.93,
+    "Sykehjem": 0.97,
+    "Småhus": 0.92,
+    "Skolebygning": 0.93,
+    "Kulturbygning": 0.96,
+    "Kontorbygning": 0.91,
+    "Lett industribygning, verksted": 0.96,
+    "Idrettsbygning": 0.87,
+    "Hotellbygning": 0.96,
+    "Forretningsbygning": 0.72,
+    "Boligblokk": 0.92,
+    "Barnehage": 1.0
+  }
+}

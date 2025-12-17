@@ -1,0 +1,19 @@
+{
+  "kommune": "Averøy",
+  "fylke": "Møre og Romsdal",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.95,
+    "Sykehus": 0.97,
+    "Sykehjem": 1.0,
+    "Småhus": 1.02,
+    "Skolebygning": 1.0,
+    "Kulturbygning": 1.01,
+    "Kontorbygning": 0.98,
+    "Lett industribygning, verksted": 1.01,
+    "Idrettsbygning": 0.93,
+    "Hotellbygning": 1.0,
+    "Forretningsbygning": 0.75,
+    "Boligblokk": 1.05,
+    "Barnehage": 1.03
+  }
+}

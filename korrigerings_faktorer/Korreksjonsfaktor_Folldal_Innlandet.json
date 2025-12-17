@@ -1,0 +1,19 @@
+{
+  "kommune": "Folldal",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.48,
+    "Sykehus": 1.38,
+    "Sykehjem": 1.36,
+    "Småhus": 1.61,
+    "Skolebygning": 1.55,
+    "Kulturbygning": 1.44,
+    "Kontorbygning": 1.45,
+    "Lett industribygning, verksted": 1.5,
+    "Idrettsbygning": 1.7,
+    "Hotellbygning": 1.43,
+    "Forretningsbygning": 1.48,
+    "Boligblokk": 1.72,
+    "Barnehage": 1.38
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kommune": "Andøy",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.08,
+    "Sykehus": 1.04,
+    "Sykehjem": 1.09,
+    "Småhus": 1.2,
+    "Skolebygning": 1.16,
+    "Kulturbygning": 1.16,
+    "Kontorbygning": 1.12,
+    "Lett industribygning, verksted": 1.17,
+    "Idrettsbygning": 1.14,
+    "Hotellbygning": 1.12,
+    "Forretningsbygning": 0.78,
+    "Boligblokk": 1.25,
+    "Barnehage": 1.14
+  }
+}

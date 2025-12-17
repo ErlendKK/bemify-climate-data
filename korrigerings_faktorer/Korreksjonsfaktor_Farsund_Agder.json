@@ -1,0 +1,19 @@
+{
+  "kommune": "Farsund",
+  "fylke": "Agder",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.72,
+    "Sykehus": 0.79,
+    "Sykehjem": 0.84,
+    "Småhus": 0.77,
+    "Skolebygning": 0.75,
+    "Kulturbygning": 0.81,
+    "Kontorbygning": 0.75,
+    "Lett industribygning, verksted": 0.8,
+    "Idrettsbygning": 0.67,
+    "Hotellbygning": 0.81,
+    "Forretningsbygning": 0.54,
+    "Boligblokk": 0.74,
+    "Barnehage": 0.89
+  }
+}

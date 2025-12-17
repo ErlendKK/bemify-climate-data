@@ -1,0 +1,19 @@
+{
+  "kommune": "Bø i Vesterålen",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.31,
+    "Sykehus": 1.22,
+    "Sykehjem": 1.24,
+    "Småhus": 1.41,
+    "Skolebygning": 1.38,
+    "Kulturbygning": 1.34,
+    "Kontorbygning": 1.34,
+    "Lett industribygning, verksted": 1.35,
+    "Idrettsbygning": 1.37,
+    "Hotellbygning": 1.3,
+    "Forretningsbygning": 1.08,
+    "Boligblokk": 1.52,
+    "Barnehage": 1.26
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kommune": "Bygland",
+  "fylke": "Agder",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.94,
+    "Sykehus": 0.95,
+    "Sykehjem": 0.98,
+    "Småhus": 0.99,
+    "Skolebygning": 0.96,
+    "Kulturbygning": 0.98,
+    "Kontorbygning": 0.95,
+    "Lett industribygning, verksted": 0.99,
+    "Idrettsbygning": 0.96,
+    "Hotellbygning": 0.98,
+    "Forretningsbygning": 0.83,
+    "Boligblokk": 0.96,
+    "Barnehage": 1.02
+  }
+}

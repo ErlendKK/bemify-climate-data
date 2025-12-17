@@ -1,0 +1,19 @@
+{
+  "kommune": "Etnedal",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.39,
+    "Sykehus": 1.32,
+    "Sykehjem": 1.3,
+    "Småhus": 1.44,
+    "Skolebygning": 1.4,
+    "Kulturbygning": 1.35,
+    "Kontorbygning": 1.37,
+    "Lett industribygning, verksted": 1.38,
+    "Idrettsbygning": 1.47,
+    "Hotellbygning": 1.35,
+    "Forretningsbygning": 1.4,
+    "Boligblokk": 1.55,
+    "Barnehage": 1.28
+  }
+}

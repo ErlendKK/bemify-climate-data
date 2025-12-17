@@ -1,0 +1,19 @@
+{
+  "kommune": "Bokn",
+  "fylke": "Rogaland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.81,
+    "Sykehus": 0.87,
+    "Sykehjem": 0.92,
+    "Småhus": 0.84,
+    "Skolebygning": 0.86,
+    "Kulturbygning": 0.89,
+    "Kontorbygning": 0.84,
+    "Lett industribygning, verksted": 0.88,
+    "Idrettsbygning": 0.76,
+    "Hotellbygning": 0.88,
+    "Forretningsbygning": 0.62,
+    "Boligblokk": 0.83,
+    "Barnehage": 0.94
+  }
+}

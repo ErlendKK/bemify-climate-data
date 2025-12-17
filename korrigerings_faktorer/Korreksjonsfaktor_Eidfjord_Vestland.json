@@ -1,0 +1,19 @@
+{
+  "kommune": "Eidfjord",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.95,
+    "Sykehus": 0.96,
+    "Sykehjem": 0.97,
+    "Småhus": 0.95,
+    "Skolebygning": 0.94,
+    "Kulturbygning": 0.97,
+    "Kontorbygning": 0.96,
+    "Lett industribygning, verksted": 0.96,
+    "Idrettsbygning": 0.91,
+    "Hotellbygning": 0.96,
+    "Forretningsbygning": 0.9,
+    "Boligblokk": 0.93,
+    "Barnehage": 0.98
+  }
+}

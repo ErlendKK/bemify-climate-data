@@ -1,0 +1,19 @@
+{
+  "kommune": "Austrheim",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.9,
+    "Sykehus": 0.93,
+    "Sykehjem": 0.98,
+    "Småhus": 0.94,
+    "Skolebygning": 0.96,
+    "Kulturbygning": 0.99,
+    "Kontorbygning": 0.94,
+    "Lett industribygning, verksted": 0.97,
+    "Idrettsbygning": 0.85,
+    "Hotellbygning": 0.97,
+    "Forretningsbygning": 0.65,
+    "Boligblokk": 0.95,
+    "Barnehage": 1.02
+  }
+}

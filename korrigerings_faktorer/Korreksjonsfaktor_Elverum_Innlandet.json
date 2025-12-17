@@ -1,0 +1,19 @@
+{
+  "kommune": "Elverum",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.41,
+    "Sykehus": 1.37,
+    "Sykehjem": 1.32,
+    "Småhus": 1.42,
+    "Skolebygning": 1.42,
+    "Kulturbygning": 1.36,
+    "Kontorbygning": 1.39,
+    "Lett industribygning, verksted": 1.37,
+    "Idrettsbygning": 1.48,
+    "Hotellbygning": 1.36,
+    "Forretningsbygning": 1.51,
+    "Boligblokk": 1.53,
+    "Barnehage": 1.28
+  }
+}

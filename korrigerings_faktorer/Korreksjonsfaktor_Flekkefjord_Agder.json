@@ -1,0 +1,19 @@
+{
+  "kommune": "Flekkefjord",
+  "fylke": "Agder",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.87,
+    "Sykehus": 0.92,
+    "Sykehjem": 0.95,
+    "Småhus": 0.88,
+    "Skolebygning": 0.9,
+    "Kulturbygning": 0.93,
+    "Kontorbygning": 0.89,
+    "Lett industribygning, verksted": 0.92,
+    "Idrettsbygning": 0.83,
+    "Hotellbygning": 0.93,
+    "Forretningsbygning": 0.74,
+    "Boligblokk": 0.86,
+    "Barnehage": 0.96
+  }
+}

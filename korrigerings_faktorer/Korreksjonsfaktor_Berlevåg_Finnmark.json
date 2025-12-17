@@ -1,0 +1,19 @@
+{
+  "kommune": "Berlevåg",
+  "fylke": "Finnmark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.51,
+    "Sykehus": 1.42,
+    "Sykehjem": 1.4,
+    "Småhus": 1.64,
+    "Skolebygning": 1.59,
+    "Kulturbygning": 1.51,
+    "Kontorbygning": 1.52,
+    "Lett industribygning, verksted": 1.54,
+    "Idrettsbygning": 1.69,
+    "Hotellbygning": 1.48,
+    "Forretningsbygning": 1.46,
+    "Boligblokk": 1.79,
+    "Barnehage": 1.4
+  }
+}

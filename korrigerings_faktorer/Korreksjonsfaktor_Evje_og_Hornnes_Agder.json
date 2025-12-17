@@ -1,0 +1,19 @@
+{
+  "kommune": "Evje og Hornnes",
+  "fylke": "Agder",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.0,
+    "Sykehus": 1.01,
+    "Sykehjem": 1.02,
+    "Småhus": 1.03,
+    "Skolebygning": 1.0,
+    "Kulturbygning": 1.03,
+    "Kontorbygning": 1.01,
+    "Lett industribygning, verksted": 1.03,
+    "Idrettsbygning": 0.98,
+    "Hotellbygning": 1.03,
+    "Forretningsbygning": 0.93,
+    "Boligblokk": 1.03,
+    "Barnehage": 1.04
+  }
+}

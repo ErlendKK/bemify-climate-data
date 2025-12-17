@@ -1,0 +1,19 @@
+{
+  "kommune": "Aurskog-Høland",
+  "fylke": "Akershus",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.19,
+    "Sykehus": 1.15,
+    "Sykehjem": 1.14,
+    "Småhus": 1.21,
+    "Skolebygning": 1.18,
+    "Kulturbygning": 1.17,
+    "Kontorbygning": 1.18,
+    "Lett industribygning, verksted": 1.18,
+    "Idrettsbygning": 1.2,
+    "Hotellbygning": 1.17,
+    "Forretningsbygning": 1.18,
+    "Boligblokk": 1.26,
+    "Barnehage": 1.14
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kommune": "Aremark",
+  "fylke": "Østfold",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.06,
+    "Sykehus": 1.05,
+    "Sykehjem": 1.05,
+    "Småhus": 1.05,
+    "Skolebygning": 1.04,
+    "Kulturbygning": 1.07,
+    "Kontorbygning": 1.06,
+    "Lett industribygning, verksted": 1.07,
+    "Idrettsbygning": 1.03,
+    "Hotellbygning": 1.06,
+    "Forretningsbygning": 0.99,
+    "Boligblokk": 1.06,
+    "Barnehage": 1.06
+  }
+}

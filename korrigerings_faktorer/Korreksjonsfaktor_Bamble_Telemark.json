@@ -1,0 +1,19 @@
+{
+  "kommune": "Bamble",
+  "fylke": "Telemark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.93,
+    "Sykehus": 0.94,
+    "Sykehjem": 0.96,
+    "Småhus": 0.93,
+    "Skolebygning": 0.9,
+    "Kulturbygning": 0.94,
+    "Kontorbygning": 0.93,
+    "Lett industribygning, verksted": 0.95,
+    "Idrettsbygning": 0.9,
+    "Hotellbygning": 0.95,
+    "Forretningsbygning": 0.86,
+    "Boligblokk": 0.93,
+    "Barnehage": 0.97
+  }
+}

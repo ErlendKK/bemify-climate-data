@@ -1,0 +1,19 @@
+{
+  "kommune": "Fedje",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.76,
+    "Sykehus": 0.82,
+    "Sykehjem": 0.89,
+    "Småhus": 0.83,
+    "Skolebygning": 0.82,
+    "Kulturbygning": 0.87,
+    "Kontorbygning": 0.8,
+    "Lett industribygning, verksted": 0.86,
+    "Idrettsbygning": 0.7,
+    "Hotellbygning": 0.85,
+    "Forretningsbygning": 0.48,
+    "Boligblokk": 0.83,
+    "Barnehage": 0.94
+  }
+}

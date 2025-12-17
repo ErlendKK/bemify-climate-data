@@ -1,0 +1,19 @@
+{
+  "kommune": "Båtsfjord",
+  "fylke": "Finnmark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.48,
+    "Sykehus": 1.38,
+    "Sykehjem": 1.36,
+    "Småhus": 1.65,
+    "Skolebygning": 1.54,
+    "Kulturbygning": 1.46,
+    "Kontorbygning": 1.47,
+    "Lett industribygning, verksted": 1.51,
+    "Idrettsbygning": 1.7,
+    "Hotellbygning": 1.44,
+    "Forretningsbygning": 1.46,
+    "Boligblokk": 1.81,
+    "Barnehage": 1.38
+  }
+}

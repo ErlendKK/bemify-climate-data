@@ -1,0 +1,19 @@
+{
+  "kommune": "Austevoll",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.76,
+    "Sykehus": 0.82,
+    "Sykehjem": 0.88,
+    "Småhus": 0.82,
+    "Skolebygning": 0.81,
+    "Kulturbygning": 0.86,
+    "Kontorbygning": 0.79,
+    "Lett industribygning, verksted": 0.85,
+    "Idrettsbygning": 0.71,
+    "Hotellbygning": 0.85,
+    "Forretningsbygning": 0.52,
+    "Boligblokk": 0.79,
+    "Barnehage": 0.93
+  }
+}

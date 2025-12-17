@@ -1,0 +1,19 @@
+{
+  "kommune": "Birkenes",
+  "fylke": "Agder",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.94,
+    "Sykehus": 0.97,
+    "Sykehjem": 0.98,
+    "Småhus": 0.93,
+    "Skolebygning": 0.92,
+    "Kulturbygning": 0.97,
+    "Kontorbygning": 0.94,
+    "Lett industribygning, verksted": 0.96,
+    "Idrettsbygning": 0.9,
+    "Hotellbygning": 0.98,
+    "Forretningsbygning": 0.88,
+    "Boligblokk": 0.9,
+    "Barnehage": 0.99
+  }
+}

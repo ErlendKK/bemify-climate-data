@@ -1,0 +1,19 @@
+{
+  "kommune": "Flesberg",
+  "fylke": "Buskerud",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.17,
+    "Sykehus": 1.15,
+    "Sykehjem": 1.14,
+    "Småhus": 1.19,
+    "Skolebygning": 1.16,
+    "Kulturbygning": 1.16,
+    "Kontorbygning": 1.16,
+    "Lett industribygning, verksted": 1.17,
+    "Idrettsbygning": 1.19,
+    "Hotellbygning": 1.16,
+    "Forretningsbygning": 1.21,
+    "Boligblokk": 1.22,
+    "Barnehage": 1.13
+  }
+}

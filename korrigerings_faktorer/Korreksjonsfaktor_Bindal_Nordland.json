@@ -1,0 +1,19 @@
+{
+  "kommune": "Bindal",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.15,
+    "Sykehus": 1.12,
+    "Sykehjem": 1.13,
+    "Småhus": 1.21,
+    "Skolebygning": 1.17,
+    "Kulturbygning": 1.18,
+    "Kontorbygning": 1.17,
+    "Lett industribygning, verksted": 1.18,
+    "Idrettsbygning": 1.17,
+    "Hotellbygning": 1.15,
+    "Forretningsbygning": 1.02,
+    "Boligblokk": 1.27,
+    "Barnehage": 1.14
+  }
+}

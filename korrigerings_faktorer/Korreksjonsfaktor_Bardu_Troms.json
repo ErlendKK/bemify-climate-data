@@ -1,0 +1,19 @@
+{
+  "kommune": "Bardu",
+  "fylke": "Troms",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.5,
+    "Sykehus": 1.39,
+    "Sykehjem": 1.36,
+    "Småhus": 1.61,
+    "Skolebygning": 1.54,
+    "Kulturbygning": 1.46,
+    "Kontorbygning": 1.49,
+    "Lett industribygning, verksted": 1.48,
+    "Idrettsbygning": 1.64,
+    "Hotellbygning": 1.43,
+    "Forretningsbygning": 1.47,
+    "Boligblokk": 1.78,
+    "Barnehage": 1.35
+  }
+}
