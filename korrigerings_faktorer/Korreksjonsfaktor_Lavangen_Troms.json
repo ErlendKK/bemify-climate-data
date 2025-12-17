@@ -1,0 +1,19 @@
+{
+  "kommune": "Lavangen",
+  "fylke": "Troms",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.33,
+    "Sykehus": 1.25,
+    "Sykehjem": 1.24,
+    "Småhus": 1.44,
+    "Skolebygning": 1.36,
+    "Kulturbygning": 1.31,
+    "Kontorbygning": 1.33,
+    "Lett industribygning, verksted": 1.34,
+    "Idrettsbygning": 1.44,
+    "Hotellbygning": 1.29,
+    "Forretningsbygning": 1.27,
+    "Boligblokk": 1.56,
+    "Barnehage": 1.25
+  }
+}

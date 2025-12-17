@@ -1,0 +1,19 @@
+{
+  "kommune": "Lebesby",
+  "fylke": "Finnmark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.54,
+    "Sykehus": 1.44,
+    "Sykehjem": 1.42,
+    "Småhus": 1.7,
+    "Skolebygning": 1.64,
+    "Kulturbygning": 1.54,
+    "Kontorbygning": 1.54,
+    "Lett industribygning, verksted": 1.58,
+    "Idrettsbygning": 1.77,
+    "Hotellbygning": 1.5,
+    "Forretningsbygning": 1.49,
+    "Boligblokk": 1.89,
+    "Barnehage": 1.43
+  }
+}

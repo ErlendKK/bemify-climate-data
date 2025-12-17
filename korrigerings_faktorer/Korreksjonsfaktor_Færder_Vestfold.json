@@ -1,0 +1,19 @@
+{
+  "kommune": "Færder",
+  "fylke": "Vestfold",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.0,
+    "Sykehus": 1.01,
+    "Sykehjem": 1.01,
+    "Småhus": 0.99,
+    "Skolebygning": 0.99,
+    "Kulturbygning": 1.01,
+    "Kontorbygning": 1.0,
+    "Lett industribygning, verksted": 1.01,
+    "Idrettsbygning": 0.99,
+    "Hotellbygning": 1.01,
+    "Forretningsbygning": 0.98,
+    "Boligblokk": 0.99,
+    "Barnehage": 1.01
+  }
+}

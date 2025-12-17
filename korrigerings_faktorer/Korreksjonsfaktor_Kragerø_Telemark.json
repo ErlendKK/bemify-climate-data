@@ -1,0 +1,19 @@
+{
+  "kommune": "Kragerø",
+  "fylke": "Telemark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.99,
+    "Sykehus": 1.02,
+    "Sykehjem": 1.02,
+    "Småhus": 0.98,
+    "Skolebygning": 0.97,
+    "Kulturbygning": 1.01,
+    "Kontorbygning": 1.0,
+    "Lett industribygning, verksted": 1.0,
+    "Idrettsbygning": 0.95,
+    "Hotellbygning": 1.02,
+    "Forretningsbygning": 0.94,
+    "Boligblokk": 1.0,
+    "Barnehage": 1.01
+  }
+}

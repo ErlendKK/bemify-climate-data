@@ -1,0 +1,19 @@
+{
+  "kommune": "Hjelmeland",
+  "fylke": "Rogaland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.89,
+    "Sykehus": 0.94,
+    "Sykehjem": 0.97,
+    "Småhus": 0.89,
+    "Skolebygning": 0.91,
+    "Kulturbygning": 0.94,
+    "Kontorbygning": 0.91,
+    "Lett industribygning, verksted": 0.92,
+    "Idrettsbygning": 0.82,
+    "Hotellbygning": 0.94,
+    "Forretningsbygning": 0.74,
+    "Boligblokk": 0.87,
+    "Barnehage": 0.97
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kommune": "Inderøy",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.16,
+    "Sykehus": 1.15,
+    "Sykehjem": 1.15,
+    "Småhus": 1.2,
+    "Skolebygning": 1.18,
+    "Kulturbygning": 1.19,
+    "Kontorbygning": 1.17,
+    "Lett industribygning, verksted": 1.18,
+    "Idrettsbygning": 1.15,
+    "Hotellbygning": 1.18,
+    "Forretningsbygning": 1.1,
+    "Boligblokk": 1.27,
+    "Barnehage": 1.14
+  }
+}

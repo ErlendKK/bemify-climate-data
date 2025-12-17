@@ -1,0 +1,19 @@
+{
+  "kommune": "Kongsvinger",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.22,
+    "Sykehus": 1.18,
+    "Sykehjem": 1.17,
+    "Småhus": 1.24,
+    "Skolebygning": 1.22,
+    "Kulturbygning": 1.2,
+    "Kontorbygning": 1.2,
+    "Lett industribygning, verksted": 1.21,
+    "Idrettsbygning": 1.25,
+    "Hotellbygning": 1.2,
+    "Forretningsbygning": 1.24,
+    "Boligblokk": 1.3,
+    "Barnehage": 1.16
+  }
+}

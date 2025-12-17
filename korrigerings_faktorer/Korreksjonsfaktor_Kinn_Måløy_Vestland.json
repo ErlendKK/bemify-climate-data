@@ -1,0 +1,19 @@
+{
+  "kommune": "Kinn (Måløy)",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.94,
+    "Sykehus": 0.97,
+    "Sykehjem": 1.02,
+    "Småhus": 0.98,
+    "Skolebygning": 1.01,
+    "Kulturbygning": 1.03,
+    "Kontorbygning": 0.99,
+    "Lett industribygning, verksted": 1.01,
+    "Idrettsbygning": 0.89,
+    "Hotellbygning": 1.0,
+    "Forretningsbygning": 0.68,
+    "Boligblokk": 1.0,
+    "Barnehage": 1.04
+  }
+}

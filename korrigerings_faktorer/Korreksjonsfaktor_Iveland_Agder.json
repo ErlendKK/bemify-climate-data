@@ -1,0 +1,19 @@
+{
+  "kommune": "Iveland",
+  "fylke": "Agder",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.02,
+    "Sykehus": 1.03,
+    "Sykehjem": 1.05,
+    "Småhus": 1.07,
+    "Skolebygning": 1.04,
+    "Kulturbygning": 1.06,
+    "Kontorbygning": 1.03,
+    "Lett industribygning, verksted": 1.06,
+    "Idrettsbygning": 1.03,
+    "Hotellbygning": 1.06,
+    "Forretningsbygning": 0.91,
+    "Boligblokk": 1.07,
+    "Barnehage": 1.07
+  }
+}

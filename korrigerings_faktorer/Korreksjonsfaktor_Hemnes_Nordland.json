@@ -1,0 +1,19 @@
+{
+  "kommune": "Hemnes",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.25,
+    "Sykehus": 1.19,
+    "Sykehjem": 1.19,
+    "Småhus": 1.34,
+    "Skolebygning": 1.28,
+    "Kulturbygning": 1.25,
+    "Kontorbygning": 1.25,
+    "Lett industribygning, verksted": 1.27,
+    "Idrettsbygning": 1.31,
+    "Hotellbygning": 1.23,
+    "Forretningsbygning": 1.17,
+    "Boligblokk": 1.42,
+    "Barnehage": 1.21
+  }
+}

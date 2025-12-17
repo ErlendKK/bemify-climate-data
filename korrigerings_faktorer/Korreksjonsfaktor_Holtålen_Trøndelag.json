@@ -1,0 +1,19 @@
+{
+  "kommune": "Holtålen",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.35,
+    "Sykehus": 1.28,
+    "Sykehjem": 1.27,
+    "Småhus": 1.45,
+    "Skolebygning": 1.42,
+    "Kulturbygning": 1.35,
+    "Kontorbygning": 1.35,
+    "Lett industribygning, verksted": 1.37,
+    "Idrettsbygning": 1.49,
+    "Hotellbygning": 1.33,
+    "Forretningsbygning": 1.29,
+    "Boligblokk": 1.56,
+    "Barnehage": 1.29
+  }
+}

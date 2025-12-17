@@ -1,0 +1,19 @@
+{
+  "kommune": "Kvænangen",
+  "fylke": "Troms",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.43,
+    "Sykehus": 1.33,
+    "Sykehjem": 1.32,
+    "Småhus": 1.56,
+    "Skolebygning": 1.49,
+    "Kulturbygning": 1.42,
+    "Kontorbygning": 1.44,
+    "Lett industribygning, verksted": 1.44,
+    "Idrettsbygning": 1.55,
+    "Hotellbygning": 1.39,
+    "Forretningsbygning": 1.35,
+    "Boligblokk": 1.72,
+    "Barnehage": 1.33
+  }
+}

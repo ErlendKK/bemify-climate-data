@@ -1,0 +1,19 @@
+{
+  "kommune": "Gjemnes",
+  "fylke": "Møre og Romsdal",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.13,
+    "Sykehus": 1.13,
+    "Sykehjem": 1.14,
+    "Småhus": 1.17,
+    "Skolebygning": 1.18,
+    "Kulturbygning": 1.18,
+    "Kontorbygning": 1.16,
+    "Lett industribygning, verksted": 1.16,
+    "Idrettsbygning": 1.12,
+    "Hotellbygning": 1.16,
+    "Forretningsbygning": 0.96,
+    "Boligblokk": 1.23,
+    "Barnehage": 1.14
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kommune": "Hattfjelldal",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.47,
+    "Sykehus": 1.37,
+    "Sykehjem": 1.35,
+    "Småhus": 1.58,
+    "Skolebygning": 1.53,
+    "Kulturbygning": 1.45,
+    "Kontorbygning": 1.46,
+    "Lett industribygning, verksted": 1.48,
+    "Idrettsbygning": 1.63,
+    "Hotellbygning": 1.42,
+    "Forretningsbygning": 1.43,
+    "Boligblokk": 1.72,
+    "Barnehage": 1.35
+  }
+}

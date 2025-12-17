@@ -1,0 +1,19 @@
+{
+  "kommune": "Hyllestad",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.95,
+    "Sykehus": 0.97,
+    "Sykehjem": 1.01,
+    "Småhus": 0.97,
+    "Skolebygning": 0.99,
+    "Kulturbygning": 1.02,
+    "Kontorbygning": 0.98,
+    "Lett industribygning, verksted": 1.0,
+    "Idrettsbygning": 0.89,
+    "Hotellbygning": 1.0,
+    "Forretningsbygning": 0.74,
+    "Boligblokk": 0.99,
+    "Barnehage": 1.03
+  }
+}

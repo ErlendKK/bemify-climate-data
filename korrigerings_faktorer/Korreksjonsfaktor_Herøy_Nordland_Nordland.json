@@ -1,0 +1,19 @@
+{
+  "kommune": "Herøy (Nordland)",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.04,
+    "Sykehus": 1.04,
+    "Sykehjem": 1.07,
+    "Småhus": 1.13,
+    "Skolebygning": 1.09,
+    "Kulturbygning": 1.11,
+    "Kontorbygning": 1.08,
+    "Lett industribygning, verksted": 1.1,
+    "Idrettsbygning": 1.05,
+    "Hotellbygning": 1.09,
+    "Forretningsbygning": 0.85,
+    "Boligblokk": 1.2,
+    "Barnehage": 1.1
+  }
+}

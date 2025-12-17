@@ -1,0 +1,19 @@
+{
+  "kommune": "Hareid",
+  "fylke": "Møre og Romsdal",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.92,
+    "Sykehus": 0.94,
+    "Sykehjem": 0.98,
+    "Småhus": 0.99,
+    "Skolebygning": 0.97,
+    "Kulturbygning": 0.99,
+    "Kontorbygning": 0.95,
+    "Lett industribygning, verksted": 0.99,
+    "Idrettsbygning": 0.9,
+    "Hotellbygning": 0.98,
+    "Forretningsbygning": 0.7,
+    "Boligblokk": 1.0,
+    "Barnehage": 1.02
+  }
+}

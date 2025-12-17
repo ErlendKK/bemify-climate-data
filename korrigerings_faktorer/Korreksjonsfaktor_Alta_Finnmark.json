@@ -1,0 +1,19 @@
+{
+  "kommune": "Alta",
+  "fylke": "Finnmark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.57,
+    "Sykehus": 1.45,
+    "Sykehjem": 1.42,
+    "Småhus": 1.69,
+    "Skolebygning": 1.62,
+    "Kulturbygning": 1.53,
+    "Kontorbygning": 1.57,
+    "Lett industribygning, verksted": 1.56,
+    "Idrettsbygning": 1.74,
+    "Hotellbygning": 1.5,
+    "Forretningsbygning": 1.53,
+    "Boligblokk": 1.89,
+    "Barnehage": 1.41
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kommune": "Karmøy",
+  "fylke": "Rogaland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.8,
+    "Sykehus": 0.86,
+    "Sykehjem": 0.92,
+    "Småhus": 0.84,
+    "Skolebygning": 0.85,
+    "Kulturbygning": 0.89,
+    "Kontorbygning": 0.83,
+    "Lett industribygning, verksted": 0.88,
+    "Idrettsbygning": 0.74,
+    "Hotellbygning": 0.89,
+    "Forretningsbygning": 0.57,
+    "Boligblokk": 0.83,
+    "Barnehage": 0.95
+  }
+}

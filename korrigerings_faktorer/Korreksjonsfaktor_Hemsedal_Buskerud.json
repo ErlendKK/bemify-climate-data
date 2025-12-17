@@ -1,0 +1,19 @@
+{
+  "kommune": "Hemsedal",
+  "fylke": "Buskerud",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.24,
+    "Sykehus": 1.18,
+    "Sykehjem": 1.19,
+    "Småhus": 1.37,
+    "Skolebygning": 1.32,
+    "Kulturbygning": 1.26,
+    "Kontorbygning": 1.23,
+    "Lett industribygning, verksted": 1.3,
+    "Idrettsbygning": 1.4,
+    "Hotellbygning": 1.24,
+    "Forretningsbygning": 1.14,
+    "Boligblokk": 1.4,
+    "Barnehage": 1.24
+  }
+}

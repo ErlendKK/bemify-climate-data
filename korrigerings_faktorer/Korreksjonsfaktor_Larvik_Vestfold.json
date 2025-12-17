@@ -1,0 +1,19 @@
+{
+  "kommune": "Larvik",
+  "fylke": "Vestfold",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.01,
+    "Sykehus": 1.01,
+    "Sykehjem": 1.02,
+    "Småhus": 1.02,
+    "Skolebygning": 1.0,
+    "Kulturbygning": 1.02,
+    "Kontorbygning": 1.01,
+    "Lett industribygning, verksted": 1.02,
+    "Idrettsbygning": 0.98,
+    "Hotellbygning": 1.03,
+    "Forretningsbygning": 0.94,
+    "Boligblokk": 1.02,
+    "Barnehage": 1.02
+  }
+}

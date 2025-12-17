@@ -1,0 +1,19 @@
+{
+  "kommune": "Indre Østfold",
+  "fylke": "Østfold",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.12,
+    "Sykehus": 1.09,
+    "Sykehjem": 1.1,
+    "Småhus": 1.16,
+    "Skolebygning": 1.13,
+    "Kulturbygning": 1.12,
+    "Kontorbygning": 1.12,
+    "Lett industribygning, verksted": 1.14,
+    "Idrettsbygning": 1.16,
+    "Hotellbygning": 1.12,
+    "Forretningsbygning": 1.09,
+    "Boligblokk": 1.2,
+    "Barnehage": 1.11
+  }
+}

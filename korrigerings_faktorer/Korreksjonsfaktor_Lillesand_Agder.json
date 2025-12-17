@@ -1,0 +1,19 @@
+{
+  "kommune": "Lillesand",
+  "fylke": "Agder",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.83,
+    "Sykehus": 0.88,
+    "Sykehjem": 0.9,
+    "Småhus": 0.83,
+    "Skolebygning": 0.81,
+    "Kulturbygning": 0.87,
+    "Kontorbygning": 0.84,
+    "Lett industribygning, verksted": 0.86,
+    "Idrettsbygning": 0.78,
+    "Hotellbygning": 0.88,
+    "Forretningsbygning": 0.75,
+    "Boligblokk": 0.79,
+    "Barnehage": 0.92
+  }
+}

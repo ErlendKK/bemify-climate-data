@@ -1,0 +1,19 @@
+{
+  "kommune": "Lom",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.13,
+    "Sykehus": 1.08,
+    "Sykehjem": 1.09,
+    "Småhus": 1.22,
+    "Skolebygning": 1.14,
+    "Kulturbygning": 1.13,
+    "Kontorbygning": 1.12,
+    "Lett industribygning, verksted": 1.17,
+    "Idrettsbygning": 1.2,
+    "Hotellbygning": 1.12,
+    "Forretningsbygning": 1.08,
+    "Boligblokk": 1.25,
+    "Barnehage": 1.13
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kommune": "Gol",
+  "fylke": "Buskerud",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.23,
+    "Sykehus": 1.19,
+    "Sykehjem": 1.17,
+    "Småhus": 1.26,
+    "Skolebygning": 1.23,
+    "Kulturbygning": 1.2,
+    "Kontorbygning": 1.21,
+    "Lett industribygning, verksted": 1.21,
+    "Idrettsbygning": 1.29,
+    "Hotellbygning": 1.2,
+    "Forretningsbygning": 1.3,
+    "Boligblokk": 1.3,
+    "Barnehage": 1.16
+  }
+}

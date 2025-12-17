@@ -1,0 +1,19 @@
+{
+  "kommune": "Luster",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.99,
+    "Sykehus": 0.99,
+    "Sykehjem": 1.01,
+    "Småhus": 1.05,
+    "Skolebygning": 1.0,
+    "Kulturbygning": 1.02,
+    "Kontorbygning": 1.01,
+    "Lett industribygning, verksted": 1.02,
+    "Idrettsbygning": 1.0,
+    "Hotellbygning": 1.02,
+    "Forretningsbygning": 0.93,
+    "Boligblokk": 1.08,
+    "Barnehage": 1.03
+  }
+}

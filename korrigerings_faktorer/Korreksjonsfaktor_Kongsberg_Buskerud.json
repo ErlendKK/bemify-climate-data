@@ -1,0 +1,19 @@
+{
+  "kommune": "Kongsberg",
+  "fylke": "Buskerud",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.18,
+    "Sykehus": 1.17,
+    "Sykehjem": 1.15,
+    "Småhus": 1.18,
+    "Skolebygning": 1.16,
+    "Kulturbygning": 1.17,
+    "Kontorbygning": 1.17,
+    "Lett industribygning, verksted": 1.17,
+    "Idrettsbygning": 1.17,
+    "Hotellbygning": 1.17,
+    "Forretningsbygning": 1.21,
+    "Boligblokk": 1.21,
+    "Barnehage": 1.13
+  }
+}

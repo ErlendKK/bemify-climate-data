@@ -1,0 +1,19 @@
+{
+  "kommune": "Grue",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.32,
+    "Sykehus": 1.28,
+    "Sykehjem": 1.24,
+    "Småhus": 1.32,
+    "Skolebygning": 1.31,
+    "Kulturbygning": 1.27,
+    "Kontorbygning": 1.29,
+    "Lett industribygning, verksted": 1.28,
+    "Idrettsbygning": 1.37,
+    "Hotellbygning": 1.27,
+    "Forretningsbygning": 1.45,
+    "Boligblokk": 1.41,
+    "Barnehage": 1.2
+  }
+}

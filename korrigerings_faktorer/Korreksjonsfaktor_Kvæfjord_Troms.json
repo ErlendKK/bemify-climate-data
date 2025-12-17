@@ -1,0 +1,19 @@
+{
+  "kommune": "Kvæfjord",
+  "fylke": "Troms",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.29,
+    "Sykehus": 1.2,
+    "Sykehjem": 1.22,
+    "Småhus": 1.4,
+    "Skolebygning": 1.34,
+    "Kulturbygning": 1.31,
+    "Kontorbygning": 1.3,
+    "Lett industribygning, verksted": 1.33,
+    "Idrettsbygning": 1.38,
+    "Hotellbygning": 1.28,
+    "Forretningsbygning": 1.14,
+    "Boligblokk": 1.5,
+    "Barnehage": 1.24
+  }
+}

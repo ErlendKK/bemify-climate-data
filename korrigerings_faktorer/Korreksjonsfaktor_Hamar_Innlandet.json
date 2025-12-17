@@ -1,0 +1,19 @@
+{
+  "kommune": "Hamar",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.27,
+    "Sykehus": 1.23,
+    "Sykehjem": 1.2,
+    "Småhus": 1.27,
+    "Skolebygning": 1.25,
+    "Kulturbygning": 1.23,
+    "Kontorbygning": 1.25,
+    "Lett industribygning, verksted": 1.24,
+    "Idrettsbygning": 1.31,
+    "Hotellbygning": 1.23,
+    "Forretningsbygning": 1.35,
+    "Boligblokk": 1.36,
+    "Barnehage": 1.17
+  }
+}

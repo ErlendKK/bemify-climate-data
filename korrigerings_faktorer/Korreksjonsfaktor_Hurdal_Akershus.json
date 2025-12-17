@@ -1,0 +1,19 @@
+{
+  "kommune": "Hurdal",
+  "fylke": "Akershus",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.21,
+    "Sykehus": 1.17,
+    "Sykehjem": 1.16,
+    "Småhus": 1.24,
+    "Skolebygning": 1.22,
+    "Kulturbygning": 1.2,
+    "Kontorbygning": 1.2,
+    "Lett industribygning, verksted": 1.21,
+    "Idrettsbygning": 1.26,
+    "Hotellbygning": 1.19,
+    "Forretningsbygning": 1.21,
+    "Boligblokk": 1.31,
+    "Barnehage": 1.16
+  }
+}

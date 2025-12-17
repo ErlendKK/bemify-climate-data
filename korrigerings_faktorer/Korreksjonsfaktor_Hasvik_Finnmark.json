@@ -1,0 +1,19 @@
+{
+  "kommune": "Hasvik",
+  "fylke": "Finnmark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.31,
+    "Sykehus": 1.23,
+    "Sykehjem": 1.24,
+    "Småhus": 1.45,
+    "Skolebygning": 1.37,
+    "Kulturbygning": 1.34,
+    "Kontorbygning": 1.33,
+    "Lett industribygning, verksted": 1.35,
+    "Idrettsbygning": 1.43,
+    "Hotellbygning": 1.3,
+    "Forretningsbygning": 1.14,
+    "Boligblokk": 1.6,
+    "Barnehage": 1.27
+  }
+}

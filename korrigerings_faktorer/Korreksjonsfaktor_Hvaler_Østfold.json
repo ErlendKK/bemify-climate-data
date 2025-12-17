@@ -1,0 +1,19 @@
+{
+  "kommune": "Hvaler",
+  "fylke": "Østfold",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.9,
+    "Sykehus": 0.92,
+    "Sykehjem": 0.94,
+    "Småhus": 0.91,
+    "Skolebygning": 0.87,
+    "Kulturbygning": 0.93,
+    "Kontorbygning": 0.91,
+    "Lett industribygning, verksted": 0.92,
+    "Idrettsbygning": 0.86,
+    "Hotellbygning": 0.93,
+    "Forretningsbygning": 0.81,
+    "Boligblokk": 0.91,
+    "Barnehage": 0.95
+  }
+}

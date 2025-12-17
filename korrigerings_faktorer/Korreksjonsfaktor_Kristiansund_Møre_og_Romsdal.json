@@ -1,0 +1,19 @@
+{
+  "kommune": "Kristiansund",
+  "fylke": "Møre og Romsdal",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.82,
+    "Sykehus": 0.86,
+    "Sykehjem": 0.92,
+    "Småhus": 0.9,
+    "Skolebygning": 0.88,
+    "Kulturbygning": 0.91,
+    "Kontorbygning": 0.86,
+    "Lett industribygning, verksted": 0.9,
+    "Idrettsbygning": 0.78,
+    "Hotellbygning": 0.9,
+    "Forretningsbygning": 0.56,
+    "Boligblokk": 0.9,
+    "Barnehage": 0.97
+  }
+}

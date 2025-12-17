@@ -1,0 +1,19 @@
+{
+  "kommune": "Halden",
+  "fylke": "Østfold",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.01,
+    "Sykehus": 1.02,
+    "Sykehjem": 1.02,
+    "Småhus": 1.0,
+    "Skolebygning": 0.99,
+    "Kulturbygning": 1.01,
+    "Kontorbygning": 1.01,
+    "Lett industribygning, verksted": 1.01,
+    "Idrettsbygning": 0.98,
+    "Hotellbygning": 1.02,
+    "Forretningsbygning": 0.96,
+    "Boligblokk": 1.02,
+    "Barnehage": 1.02
+  }
+}

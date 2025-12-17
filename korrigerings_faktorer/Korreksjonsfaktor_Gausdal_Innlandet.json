@@ -1,0 +1,19 @@
+{
+  "kommune": "Gausdal",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.4,
+    "Sykehus": 1.35,
+    "Sykehjem": 1.3,
+    "Småhus": 1.43,
+    "Skolebygning": 1.4,
+    "Kulturbygning": 1.35,
+    "Kontorbygning": 1.38,
+    "Lett industribygning, verksted": 1.37,
+    "Idrettsbygning": 1.48,
+    "Hotellbygning": 1.35,
+    "Forretningsbygning": 1.49,
+    "Boligblokk": 1.54,
+    "Barnehage": 1.28
+  }
+}

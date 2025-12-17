@@ -1,0 +1,19 @@
+{
+  "kommune": "Hå",
+  "fylke": "Rogaland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.75,
+    "Sykehus": 0.8,
+    "Sykehjem": 0.87,
+    "Småhus": 0.82,
+    "Skolebygning": 0.79,
+    "Kulturbygning": 0.84,
+    "Kontorbygning": 0.78,
+    "Lett industribygning, verksted": 0.84,
+    "Idrettsbygning": 0.71,
+    "Hotellbygning": 0.84,
+    "Forretningsbygning": 0.52,
+    "Boligblokk": 0.79,
+    "Barnehage": 0.92
+  }
+}

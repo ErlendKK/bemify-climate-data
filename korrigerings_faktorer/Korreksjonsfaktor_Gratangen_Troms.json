@@ -1,0 +1,19 @@
+{
+  "kommune": "Gratangen",
+  "fylke": "Troms",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.42,
+    "Sykehus": 1.33,
+    "Sykehjem": 1.31,
+    "Småhus": 1.52,
+    "Skolebygning": 1.46,
+    "Kulturbygning": 1.4,
+    "Kontorbygning": 1.42,
+    "Lett industribygning, verksted": 1.42,
+    "Idrettsbygning": 1.53,
+    "Hotellbygning": 1.37,
+    "Forretningsbygning": 1.36,
+    "Boligblokk": 1.66,
+    "Barnehage": 1.31
+  }
+}

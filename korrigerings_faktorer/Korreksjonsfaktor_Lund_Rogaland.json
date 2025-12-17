@@ -1,0 +1,19 @@
+{
+  "kommune": "Lund",
+  "fylke": "Rogaland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.91,
+    "Sykehus": 0.95,
+    "Sykehjem": 0.98,
+    "Småhus": 0.92,
+    "Skolebygning": 0.93,
+    "Kulturbygning": 0.97,
+    "Kontorbygning": 0.92,
+    "Lett industribygning, verksted": 0.95,
+    "Idrettsbygning": 0.87,
+    "Hotellbygning": 0.97,
+    "Forretningsbygning": 0.78,
+    "Boligblokk": 0.92,
+    "Barnehage": 0.99
+  }
+}

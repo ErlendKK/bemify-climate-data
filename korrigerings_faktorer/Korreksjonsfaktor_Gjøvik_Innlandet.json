@@ -1,0 +1,19 @@
+{
+  "kommune": "Gjøvik",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.25,
+    "Sykehus": 1.23,
+    "Sykehjem": 1.19,
+    "Småhus": 1.25,
+    "Skolebygning": 1.22,
+    "Kulturbygning": 1.21,
+    "Kontorbygning": 1.23,
+    "Lett industribygning, verksted": 1.22,
+    "Idrettsbygning": 1.27,
+    "Hotellbygning": 1.22,
+    "Forretningsbygning": 1.37,
+    "Boligblokk": 1.31,
+    "Barnehage": 1.16
+  }
+}

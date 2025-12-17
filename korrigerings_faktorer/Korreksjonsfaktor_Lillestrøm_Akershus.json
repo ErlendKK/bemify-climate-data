@@ -1,0 +1,19 @@
+{
+  "kommune": "Lillestrøm",
+  "fylke": "Akershus",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.16,
+    "Sykehus": 1.14,
+    "Sykehjem": 1.12,
+    "Småhus": 1.16,
+    "Skolebygning": 1.14,
+    "Kulturbygning": 1.14,
+    "Kontorbygning": 1.15,
+    "Lett industribygning, verksted": 1.15,
+    "Idrettsbygning": 1.17,
+    "Hotellbygning": 1.14,
+    "Forretningsbygning": 1.2,
+    "Boligblokk": 1.19,
+    "Barnehage": 1.11
+  }
+}

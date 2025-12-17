@@ -1,0 +1,19 @@
+{
+  "kommune": "Harstad",
+  "fylke": "Troms",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.06,
+    "Sykehus": 1.02,
+    "Sykehjem": 1.07,
+    "Småhus": 1.19,
+    "Skolebygning": 1.14,
+    "Kulturbygning": 1.14,
+    "Kontorbygning": 1.1,
+    "Lett industribygning, verksted": 1.15,
+    "Idrettsbygning": 1.13,
+    "Hotellbygning": 1.1,
+    "Forretningsbygning": 0.8,
+    "Boligblokk": 1.26,
+    "Barnehage": 1.13
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kommune": "Kvam",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.92,
+    "Sykehus": 0.96,
+    "Sykehjem": 0.98,
+    "Småhus": 0.93,
+    "Skolebygning": 0.94,
+    "Kulturbygning": 0.97,
+    "Kontorbygning": 0.94,
+    "Lett industribygning, verksted": 0.96,
+    "Idrettsbygning": 0.87,
+    "Hotellbygning": 0.97,
+    "Forretningsbygning": 0.79,
+    "Boligblokk": 0.94,
+    "Barnehage": 0.99
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kommune": "Kristiansand",
+  "fylke": "Agder",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.79,
+    "Sykehus": 0.84,
+    "Sykehjem": 0.87,
+    "Småhus": 0.79,
+    "Skolebygning": 0.77,
+    "Kulturbygning": 0.83,
+    "Kontorbygning": 0.8,
+    "Lett industribygning, verksted": 0.82,
+    "Idrettsbygning": 0.73,
+    "Hotellbygning": 0.84,
+    "Forretningsbygning": 0.69,
+    "Boligblokk": 0.73,
+    "Barnehage": 0.89
+  }
+}

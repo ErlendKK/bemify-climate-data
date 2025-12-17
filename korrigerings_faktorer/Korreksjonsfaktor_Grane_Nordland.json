@@ -1,0 +1,19 @@
+{
+  "kommune": "Grane",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.25,
+    "Sykehus": 1.18,
+    "Sykehjem": 1.19,
+    "Småhus": 1.33,
+    "Skolebygning": 1.27,
+    "Kulturbygning": 1.24,
+    "Kontorbygning": 1.24,
+    "Lett industribygning, verksted": 1.27,
+    "Idrettsbygning": 1.33,
+    "Hotellbygning": 1.23,
+    "Forretningsbygning": 1.2,
+    "Boligblokk": 1.43,
+    "Barnehage": 1.2
+  }
+}

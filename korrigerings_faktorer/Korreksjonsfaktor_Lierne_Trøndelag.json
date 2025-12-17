@@ -1,0 +1,19 @@
+{
+  "kommune": "Lierne",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.53,
+    "Sykehus": 1.41,
+    "Sykehjem": 1.39,
+    "Småhus": 1.64,
+    "Skolebygning": 1.59,
+    "Kulturbygning": 1.5,
+    "Kontorbygning": 1.52,
+    "Lett industribygning, verksted": 1.53,
+    "Idrettsbygning": 1.7,
+    "Hotellbygning": 1.47,
+    "Forretningsbygning": 1.47,
+    "Boligblokk": 1.79,
+    "Barnehage": 1.4
+  }
+}

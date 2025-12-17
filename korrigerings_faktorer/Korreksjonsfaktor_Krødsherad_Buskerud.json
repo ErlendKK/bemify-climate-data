@@ -1,0 +1,19 @@
+{
+  "kommune": "Krødsherad",
+  "fylke": "Buskerud",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.27,
+    "Sykehus": 1.24,
+    "Sykehjem": 1.21,
+    "Småhus": 1.29,
+    "Skolebygning": 1.27,
+    "Kulturbygning": 1.25,
+    "Kontorbygning": 1.26,
+    "Lett industribygning, verksted": 1.25,
+    "Idrettsbygning": 1.31,
+    "Hotellbygning": 1.25,
+    "Forretningsbygning": 1.33,
+    "Boligblokk": 1.36,
+    "Barnehage": 1.19
+  }
+}

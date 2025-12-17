@@ -1,0 +1,19 @@
+{
+  "kommune": "Hammerfest",
+  "fylke": "Finnmark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.44,
+    "Sykehus": 1.33,
+    "Sykehjem": 1.33,
+    "Småhus": 1.56,
+    "Skolebygning": 1.5,
+    "Kulturbygning": 1.45,
+    "Kontorbygning": 1.46,
+    "Lett industribygning, verksted": 1.46,
+    "Idrettsbygning": 1.55,
+    "Hotellbygning": 1.4,
+    "Forretningsbygning": 1.29,
+    "Boligblokk": 1.71,
+    "Barnehage": 1.34
+  }
+}

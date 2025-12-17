@@ -1,0 +1,19 @@
+{
+  "kommune": "Hol",
+  "fylke": "Buskerud",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.28,
+    "Sykehus": 1.22,
+    "Sykehjem": 1.22,
+    "Småhus": 1.39,
+    "Skolebygning": 1.35,
+    "Kulturbygning": 1.28,
+    "Kontorbygning": 1.27,
+    "Lett industribygning, verksted": 1.32,
+    "Idrettsbygning": 1.43,
+    "Hotellbygning": 1.27,
+    "Forretningsbygning": 1.23,
+    "Boligblokk": 1.44,
+    "Barnehage": 1.25
+  }
+}

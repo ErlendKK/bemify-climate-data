@@ -1,0 +1,19 @@
+{
+  "kommune": "Horten",
+  "fylke": "Vestfold",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.98,
+    "Sykehus": 0.98,
+    "Sykehjem": 0.98,
+    "Småhus": 0.95,
+    "Skolebygning": 0.94,
+    "Kulturbygning": 0.97,
+    "Kontorbygning": 0.98,
+    "Lett industribygning, verksted": 0.97,
+    "Idrettsbygning": 0.94,
+    "Hotellbygning": 0.98,
+    "Forretningsbygning": 0.99,
+    "Boligblokk": 0.96,
+    "Barnehage": 0.97
+  }
+}

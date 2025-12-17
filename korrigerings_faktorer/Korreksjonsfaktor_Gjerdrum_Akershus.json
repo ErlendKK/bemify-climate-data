@@ -1,0 +1,19 @@
+{
+  "kommune": "Gjerdrum",
+  "fylke": "Akershus",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.25,
+    "Sykehus": 1.2,
+    "Sykehjem": 1.18,
+    "Småhus": 1.27,
+    "Skolebygning": 1.23,
+    "Kulturbygning": 1.22,
+    "Kontorbygning": 1.23,
+    "Lett industribygning, verksted": 1.24,
+    "Idrettsbygning": 1.27,
+    "Hotellbygning": 1.22,
+    "Forretningsbygning": 1.25,
+    "Boligblokk": 1.33,
+    "Barnehage": 1.18
+  }
+}

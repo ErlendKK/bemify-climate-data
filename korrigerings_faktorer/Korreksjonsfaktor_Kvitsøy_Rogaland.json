@@ -1,0 +1,19 @@
+{
+  "kommune": "Kvitsøy",
+  "fylke": "Rogaland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.71,
+    "Sykehus": 0.78,
+    "Sykehjem": 0.84,
+    "Småhus": 0.75,
+    "Skolebygning": 0.75,
+    "Kulturbygning": 0.8,
+    "Kontorbygning": 0.74,
+    "Lett industribygning, verksted": 0.78,
+    "Idrettsbygning": 0.65,
+    "Hotellbygning": 0.79,
+    "Forretningsbygning": 0.5,
+    "Boligblokk": 0.73,
+    "Barnehage": 0.88
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kommune": "Karasjok",
+  "fylke": "Finnmark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.99,
+    "Sykehus": 1.87,
+    "Sykehjem": 1.75,
+    "Småhus": 2.09,
+    "Skolebygning": 2.04,
+    "Kulturbygning": 1.86,
+    "Kontorbygning": 1.94,
+    "Lett industribygning, verksted": 1.91,
+    "Idrettsbygning": 2.26,
+    "Hotellbygning": 1.83,
+    "Forretningsbygning": 2.21,
+    "Boligblokk": 2.4,
+    "Barnehage": 1.66
+  }
+}

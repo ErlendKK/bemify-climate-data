@@ -1,0 +1,19 @@
+{
+  "kommune": "Hitra",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.02,
+    "Sykehus": 1.01,
+    "Sykehjem": 1.05,
+    "Småhus": 1.08,
+    "Skolebygning": 1.07,
+    "Kulturbygning": 1.08,
+    "Kontorbygning": 1.04,
+    "Lett industribygning, verksted": 1.08,
+    "Idrettsbygning": 1.02,
+    "Hotellbygning": 1.06,
+    "Forretningsbygning": 0.81,
+    "Boligblokk": 1.1,
+    "Barnehage": 1.08
+  }
+}

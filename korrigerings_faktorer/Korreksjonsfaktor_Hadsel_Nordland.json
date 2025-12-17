@@ -1,0 +1,19 @@
+{
+  "kommune": "Hadsel",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.23,
+    "Sykehus": 1.15,
+    "Sykehjem": 1.18,
+    "Småhus": 1.35,
+    "Skolebygning": 1.29,
+    "Kulturbygning": 1.26,
+    "Kontorbygning": 1.25,
+    "Lett industribygning, verksted": 1.29,
+    "Idrettsbygning": 1.33,
+    "Hotellbygning": 1.24,
+    "Forretningsbygning": 1.04,
+    "Boligblokk": 1.46,
+    "Barnehage": 1.22
+  }
+}

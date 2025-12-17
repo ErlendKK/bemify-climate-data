@@ -1,0 +1,19 @@
+{
+  "kommune": "Gran",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.15,
+    "Sykehus": 1.12,
+    "Sykehjem": 1.11,
+    "Småhus": 1.23,
+    "Skolebygning": 1.17,
+    "Kulturbygning": 1.14,
+    "Kontorbygning": 1.14,
+    "Lett industribygning, verksted": 1.16,
+    "Idrettsbygning": 1.25,
+    "Hotellbygning": 1.15,
+    "Forretningsbygning": 1.17,
+    "Boligblokk": 1.27,
+    "Barnehage": 1.13
+  }
+}

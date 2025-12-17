@@ -1,0 +1,19 @@
+{
+  "kommune": "Klepp",
+  "fylke": "Rogaland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.83,
+    "Sykehus": 0.87,
+    "Sykehjem": 0.92,
+    "Småhus": 0.88,
+    "Skolebygning": 0.88,
+    "Kulturbygning": 0.91,
+    "Kontorbygning": 0.86,
+    "Lett industribygning, verksted": 0.9,
+    "Idrettsbygning": 0.79,
+    "Hotellbygning": 0.9,
+    "Forretningsbygning": 0.62,
+    "Boligblokk": 0.88,
+    "Barnehage": 0.96
+  }
+}

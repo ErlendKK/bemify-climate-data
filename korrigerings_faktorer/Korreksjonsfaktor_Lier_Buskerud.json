@@ -1,0 +1,19 @@
+{
+  "kommune": "Lier",
+  "fylke": "Buskerud",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.11,
+    "Sykehus": 1.1,
+    "Sykehjem": 1.08,
+    "Småhus": 1.1,
+    "Skolebygning": 1.1,
+    "Kulturbygning": 1.1,
+    "Kontorbygning": 1.1,
+    "Lett industribygning, verksted": 1.1,
+    "Idrettsbygning": 1.1,
+    "Hotellbygning": 1.1,
+    "Forretningsbygning": 1.18,
+    "Boligblokk": 1.13,
+    "Barnehage": 1.07
+  }
+}

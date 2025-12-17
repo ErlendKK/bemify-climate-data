@@ -1,0 +1,19 @@
+{
+  "kommune": "Lurøy",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.1,
+    "Sykehus": 1.08,
+    "Sykehjem": 1.11,
+    "Småhus": 1.18,
+    "Skolebygning": 1.15,
+    "Kulturbygning": 1.16,
+    "Kontorbygning": 1.13,
+    "Lett industribygning, verksted": 1.15,
+    "Idrettsbygning": 1.11,
+    "Hotellbygning": 1.13,
+    "Forretningsbygning": 0.87,
+    "Boligblokk": 1.25,
+    "Barnehage": 1.13
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kommune": "Hægebostad",
+  "fylke": "Agder",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.96,
+    "Sykehus": 0.97,
+    "Sykehjem": 1.0,
+    "Småhus": 1.01,
+    "Skolebygning": 0.98,
+    "Kulturbygning": 1.01,
+    "Kontorbygning": 0.98,
+    "Lett industribygning, verksted": 1.01,
+    "Idrettsbygning": 0.94,
+    "Hotellbygning": 1.01,
+    "Forretningsbygning": 0.83,
+    "Boligblokk": 1.0,
+    "Barnehage": 1.03
+  }
+}

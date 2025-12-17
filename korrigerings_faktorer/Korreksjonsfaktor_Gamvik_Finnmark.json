@@ -1,0 +1,19 @@
+{
+  "kommune": "Gamvik",
+  "fylke": "Finnmark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.37,
+    "Sykehus": 1.28,
+    "Sykehjem": 1.29,
+    "Småhus": 1.53,
+    "Skolebygning": 1.44,
+    "Kulturbygning": 1.39,
+    "Kontorbygning": 1.38,
+    "Lett industribygning, verksted": 1.42,
+    "Idrettsbygning": 1.54,
+    "Hotellbygning": 1.36,
+    "Forretningsbygning": 1.26,
+    "Boligblokk": 1.66,
+    "Barnehage": 1.32
+  }
+}

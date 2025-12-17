@@ -1,0 +1,19 @@
+{
+  "kommune": "Kautokeino",
+  "fylke": "Finnmark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 2.08,
+    "Sykehus": 1.95,
+    "Sykehjem": 1.82,
+    "Småhus": 2.2,
+    "Skolebygning": 2.15,
+    "Kulturbygning": 1.94,
+    "Kontorbygning": 2.03,
+    "Lett industribygning, verksted": 2.0,
+    "Idrettsbygning": 2.39,
+    "Hotellbygning": 1.91,
+    "Forretningsbygning": 2.32,
+    "Boligblokk": 2.51,
+    "Barnehage": 1.73
+  }
+}

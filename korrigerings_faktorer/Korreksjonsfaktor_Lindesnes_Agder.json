@@ -1,0 +1,19 @@
+{
+  "kommune": "Lindesnes",
+  "fylke": "Agder",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.82,
+    "Sykehus": 0.87,
+    "Sykehjem": 0.91,
+    "Småhus": 0.84,
+    "Skolebygning": 0.82,
+    "Kulturbygning": 0.87,
+    "Kontorbygning": 0.84,
+    "Lett industribygning, verksted": 0.86,
+    "Idrettsbygning": 0.76,
+    "Hotellbygning": 0.88,
+    "Forretningsbygning": 0.68,
+    "Boligblokk": 0.82,
+    "Barnehage": 0.93
+  }
+}

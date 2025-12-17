@@ -1,0 +1,19 @@
+{
+  "kommune": "Gjesdal",
+  "fylke": "Rogaland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.9,
+    "Sykehus": 0.94,
+    "Sykehjem": 0.98,
+    "Småhus": 0.94,
+    "Skolebygning": 0.94,
+    "Kulturbygning": 0.97,
+    "Kontorbygning": 0.93,
+    "Lett industribygning, verksted": 0.97,
+    "Idrettsbygning": 0.87,
+    "Hotellbygning": 0.96,
+    "Forretningsbygning": 0.7,
+    "Boligblokk": 0.93,
+    "Barnehage": 1.01
+  }
+}

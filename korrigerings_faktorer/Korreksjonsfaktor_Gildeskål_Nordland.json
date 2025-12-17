@@ -1,0 +1,19 @@
+{
+  "kommune": "Gildeskål",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.1,
+    "Sykehus": 1.06,
+    "Sykehjem": 1.09,
+    "Småhus": 1.18,
+    "Skolebygning": 1.14,
+    "Kulturbygning": 1.15,
+    "Kontorbygning": 1.13,
+    "Lett industribygning, verksted": 1.14,
+    "Idrettsbygning": 1.12,
+    "Hotellbygning": 1.12,
+    "Forretningsbygning": 0.9,
+    "Boligblokk": 1.26,
+    "Barnehage": 1.12
+  }
+}

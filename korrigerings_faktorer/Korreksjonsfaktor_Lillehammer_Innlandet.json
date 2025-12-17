@@ -1,0 +1,19 @@
+{
+  "kommune": "Lillehammer",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.23,
+    "Sykehus": 1.2,
+    "Sykehjem": 1.18,
+    "Småhus": 1.28,
+    "Skolebygning": 1.24,
+    "Kulturbygning": 1.22,
+    "Kontorbygning": 1.22,
+    "Lett industribygning, verksted": 1.23,
+    "Idrettsbygning": 1.28,
+    "Hotellbygning": 1.22,
+    "Forretningsbygning": 1.25,
+    "Boligblokk": 1.35,
+    "Barnehage": 1.17
+  }
+}

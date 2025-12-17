@@ -1,0 +1,19 @@
+{
+  "kommune": "Haugesund",
+  "fylke": "Rogaland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.74,
+    "Sykehus": 0.8,
+    "Sykehjem": 0.86,
+    "Småhus": 0.81,
+    "Skolebygning": 0.79,
+    "Kulturbygning": 0.83,
+    "Kontorbygning": 0.77,
+    "Lett industribygning, verksted": 0.82,
+    "Idrettsbygning": 0.7,
+    "Hotellbygning": 0.83,
+    "Forretningsbygning": 0.51,
+    "Boligblokk": 0.79,
+    "Barnehage": 0.91
+  }
+}

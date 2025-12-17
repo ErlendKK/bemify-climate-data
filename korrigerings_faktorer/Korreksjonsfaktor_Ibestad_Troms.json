@@ -1,0 +1,19 @@
+{
+  "kommune": "Ibestad",
+  "fylke": "Troms",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.3,
+    "Sykehus": 1.2,
+    "Sykehjem": 1.22,
+    "Småhus": 1.41,
+    "Skolebygning": 1.34,
+    "Kulturbygning": 1.3,
+    "Kontorbygning": 1.3,
+    "Lett industribygning, verksted": 1.33,
+    "Idrettsbygning": 1.4,
+    "Hotellbygning": 1.28,
+    "Forretningsbygning": 1.17,
+    "Boligblokk": 1.51,
+    "Barnehage": 1.24
+  }
+}
