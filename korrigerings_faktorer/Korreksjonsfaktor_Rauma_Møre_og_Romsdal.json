@@ -1,0 +1,19 @@
+{
+  "kommune": "Rauma",
+  "fylke": "Møre og Romsdal",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.89,
+    "Sykehus": 0.92,
+    "Sykehjem": 0.94,
+    "Småhus": 0.92,
+    "Skolebygning": 0.9,
+    "Kulturbygning": 0.93,
+    "Kontorbygning": 0.91,
+    "Lett industribygning, verksted": 0.93,
+    "Idrettsbygning": 0.86,
+    "Hotellbygning": 0.93,
+    "Forretningsbygning": 0.78,
+    "Boligblokk": 0.92,
+    "Barnehage": 0.97
+  }
+}

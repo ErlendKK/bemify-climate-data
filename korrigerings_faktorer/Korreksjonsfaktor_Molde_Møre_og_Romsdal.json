@@ -1,0 +1,19 @@
+{
+  "kommune": "Molde",
+  "fylke": "Møre og Romsdal",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.94,
+    "Sykehus": 0.96,
+    "Sykehjem": 1.0,
+    "Småhus": 0.99,
+    "Skolebygning": 0.98,
+    "Kulturbygning": 1.01,
+    "Kontorbygning": 0.97,
+    "Lett industribygning, verksted": 1.0,
+    "Idrettsbygning": 0.91,
+    "Hotellbygning": 0.99,
+    "Forretningsbygning": 0.74,
+    "Boligblokk": 1.02,
+    "Barnehage": 1.02
+  }
+}

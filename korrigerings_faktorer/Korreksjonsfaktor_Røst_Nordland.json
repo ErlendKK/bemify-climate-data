@@ -1,0 +1,19 @@
+{
+  "kommune": "Røst",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.84,
+    "Sykehus": 0.89,
+    "Sykehjem": 0.95,
+    "Småhus": 0.96,
+    "Skolebygning": 0.93,
+    "Kulturbygning": 0.96,
+    "Kontorbygning": 0.89,
+    "Lett industribygning, verksted": 0.96,
+    "Idrettsbygning": 0.84,
+    "Hotellbygning": 0.93,
+    "Forretningsbygning": 0.51,
+    "Boligblokk": 0.98,
+    "Barnehage": 1.01
+  }
+}

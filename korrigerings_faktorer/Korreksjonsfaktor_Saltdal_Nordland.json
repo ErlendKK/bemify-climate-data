@@ -1,0 +1,19 @@
+{
+  "kommune": "Saltdal",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.32,
+    "Sykehus": 1.24,
+    "Sykehjem": 1.24,
+    "Småhus": 1.42,
+    "Skolebygning": 1.35,
+    "Kulturbygning": 1.32,
+    "Kontorbygning": 1.33,
+    "Lett industribygning, verksted": 1.33,
+    "Idrettsbygning": 1.39,
+    "Hotellbygning": 1.29,
+    "Forretningsbygning": 1.24,
+    "Boligblokk": 1.56,
+    "Barnehage": 1.25
+  }
+}

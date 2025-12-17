@@ -1,0 +1,19 @@
+{
+  "kommune": "Lørenskog",
+  "fylke": "Akershus",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.19,
+    "Sykehus": 1.15,
+    "Sykehjem": 1.15,
+    "Småhus": 1.22,
+    "Skolebygning": 1.19,
+    "Kulturbygning": 1.18,
+    "Kontorbygning": 1.18,
+    "Lett industribygning, verksted": 1.19,
+    "Idrettsbygning": 1.23,
+    "Hotellbygning": 1.18,
+    "Forretningsbygning": 1.17,
+    "Boligblokk": 1.26,
+    "Barnehage": 1.15
+  }
+}

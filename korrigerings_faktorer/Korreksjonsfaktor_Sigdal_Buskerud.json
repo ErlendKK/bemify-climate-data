@@ -1,0 +1,19 @@
+{
+  "kommune": "Sigdal",
+  "fylke": "Buskerud",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.28,
+    "Sykehus": 1.25,
+    "Sykehjem": 1.21,
+    "Småhus": 1.28,
+    "Skolebygning": 1.26,
+    "Kulturbygning": 1.25,
+    "Kontorbygning": 1.26,
+    "Lett industribygning, verksted": 1.25,
+    "Idrettsbygning": 1.28,
+    "Hotellbygning": 1.25,
+    "Forretningsbygning": 1.33,
+    "Boligblokk": 1.34,
+    "Barnehage": 1.19
+  }
+}

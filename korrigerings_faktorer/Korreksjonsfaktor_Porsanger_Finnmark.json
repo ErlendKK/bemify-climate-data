@@ -1,0 +1,19 @@
+{
+  "kommune": "Porsanger",
+  "fylke": "Finnmark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.68,
+    "Sykehus": 1.59,
+    "Sykehjem": 1.53,
+    "Småhus": 1.79,
+    "Skolebygning": 1.75,
+    "Kulturbygning": 1.63,
+    "Kontorbygning": 1.66,
+    "Lett industribygning, verksted": 1.67,
+    "Idrettsbygning": 1.89,
+    "Hotellbygning": 1.61,
+    "Forretningsbygning": 1.73,
+    "Boligblokk": 1.99,
+    "Barnehage": 1.5
+  }
+}

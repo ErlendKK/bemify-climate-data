@@ -1,0 +1,19 @@
+{
+  "kommune": "Rana",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.38,
+    "Sykehus": 1.3,
+    "Sykehjem": 1.28,
+    "Småhus": 1.48,
+    "Skolebygning": 1.43,
+    "Kulturbygning": 1.36,
+    "Kontorbygning": 1.37,
+    "Lett industribygning, verksted": 1.39,
+    "Idrettsbygning": 1.5,
+    "Hotellbygning": 1.34,
+    "Forretningsbygning": 1.35,
+    "Boligblokk": 1.62,
+    "Barnehage": 1.29
+  }
+}

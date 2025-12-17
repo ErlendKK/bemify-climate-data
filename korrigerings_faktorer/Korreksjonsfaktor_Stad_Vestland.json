@@ -1,0 +1,19 @@
+{
+  "kommune": "Stad",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.87,
+    "Sykehus": 0.9,
+    "Sykehjem": 0.93,
+    "Småhus": 0.9,
+    "Skolebygning": 0.87,
+    "Kulturbygning": 0.92,
+    "Kontorbygning": 0.89,
+    "Lett industribygning, verksted": 0.92,
+    "Idrettsbygning": 0.82,
+    "Hotellbygning": 0.92,
+    "Forretningsbygning": 0.75,
+    "Boligblokk": 0.9,
+    "Barnehage": 0.96
+  }
+}

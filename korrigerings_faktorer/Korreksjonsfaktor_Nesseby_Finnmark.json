@@ -1,0 +1,19 @@
+{
+  "kommune": "Nesseby",
+  "fylke": "Finnmark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.83,
+    "Sykehus": 1.71,
+    "Sykehjem": 1.63,
+    "Småhus": 1.92,
+    "Skolebygning": 1.9,
+    "Kulturbygning": 1.75,
+    "Kontorbygning": 1.81,
+    "Lett industribygning, verksted": 1.79,
+    "Idrettsbygning": 2.05,
+    "Hotellbygning": 1.71,
+    "Forretningsbygning": 1.89,
+    "Boligblokk": 2.17,
+    "Barnehage": 1.57
+  }
+}

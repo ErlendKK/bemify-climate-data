@@ -1,0 +1,19 @@
+{
+  "kommune": "Melhus",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.11,
+    "Sykehus": 1.09,
+    "Sykehjem": 1.1,
+    "Småhus": 1.15,
+    "Skolebygning": 1.12,
+    "Kulturbygning": 1.13,
+    "Kontorbygning": 1.12,
+    "Lett industribygning, verksted": 1.13,
+    "Idrettsbygning": 1.13,
+    "Hotellbygning": 1.12,
+    "Forretningsbygning": 1.02,
+    "Boligblokk": 1.2,
+    "Barnehage": 1.11
+  }
+}

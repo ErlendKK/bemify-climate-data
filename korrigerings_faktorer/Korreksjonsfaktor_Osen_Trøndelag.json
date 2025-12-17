@@ -1,0 +1,19 @@
+{
+  "kommune": "Osen",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.07,
+    "Sykehus": 1.07,
+    "Sykehjem": 1.1,
+    "Småhus": 1.14,
+    "Skolebygning": 1.13,
+    "Kulturbygning": 1.13,
+    "Kontorbygning": 1.1,
+    "Lett industribygning, verksted": 1.12,
+    "Idrettsbygning": 1.1,
+    "Hotellbygning": 1.11,
+    "Forretningsbygning": 0.91,
+    "Boligblokk": 1.18,
+    "Barnehage": 1.11
+  }
+}

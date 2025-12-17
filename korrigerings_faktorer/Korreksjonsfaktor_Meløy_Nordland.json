@@ -1,0 +1,19 @@
+{
+  "kommune": "Meløy",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.2,
+    "Sykehus": 1.16,
+    "Sykehjem": 1.17,
+    "Småhus": 1.29,
+    "Skolebygning": 1.25,
+    "Kulturbygning": 1.23,
+    "Kontorbygning": 1.23,
+    "Lett industribygning, verksted": 1.24,
+    "Idrettsbygning": 1.24,
+    "Hotellbygning": 1.21,
+    "Forretningsbygning": 1.04,
+    "Boligblokk": 1.39,
+    "Barnehage": 1.18
+  }
+}

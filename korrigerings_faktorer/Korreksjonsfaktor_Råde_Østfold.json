@@ -1,0 +1,19 @@
+{
+  "kommune": "Råde",
+  "fylke": "Østfold",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.06,
+    "Sykehus": 1.06,
+    "Sykehjem": 1.06,
+    "Småhus": 1.07,
+    "Skolebygning": 1.05,
+    "Kulturbygning": 1.06,
+    "Kontorbygning": 1.06,
+    "Lett industribygning, verksted": 1.07,
+    "Idrettsbygning": 1.06,
+    "Hotellbygning": 1.06,
+    "Forretningsbygning": 1.03,
+    "Boligblokk": 1.09,
+    "Barnehage": 1.06
+  }
+}

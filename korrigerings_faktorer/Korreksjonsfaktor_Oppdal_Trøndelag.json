@@ -1,0 +1,19 @@
+{
+  "kommune": "Oppdal",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.24,
+    "Sykehus": 1.17,
+    "Sykehjem": 1.17,
+    "Småhus": 1.36,
+    "Skolebygning": 1.3,
+    "Kulturbygning": 1.24,
+    "Kontorbygning": 1.22,
+    "Lett industribygning, verksted": 1.28,
+    "Idrettsbygning": 1.39,
+    "Hotellbygning": 1.23,
+    "Forretningsbygning": 1.17,
+    "Boligblokk": 1.42,
+    "Barnehage": 1.22
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kommune": "Nesna",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.16,
+    "Sykehus": 1.13,
+    "Sykehjem": 1.15,
+    "Småhus": 1.23,
+    "Skolebygning": 1.19,
+    "Kulturbygning": 1.2,
+    "Kontorbygning": 1.19,
+    "Lett industribygning, verksted": 1.19,
+    "Idrettsbygning": 1.17,
+    "Hotellbygning": 1.17,
+    "Forretningsbygning": 1.02,
+    "Boligblokk": 1.3,
+    "Barnehage": 1.16
+  }
+}

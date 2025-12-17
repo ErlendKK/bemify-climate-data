@@ -1,0 +1,19 @@
+{
+  "kommune": "Samnanger",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.9,
+    "Sykehus": 0.94,
+    "Sykehjem": 0.97,
+    "Småhus": 0.93,
+    "Skolebygning": 0.92,
+    "Kulturbygning": 0.96,
+    "Kontorbygning": 0.93,
+    "Lett industribygning, verksted": 0.95,
+    "Idrettsbygning": 0.86,
+    "Hotellbygning": 0.96,
+    "Forretningsbygning": 0.75,
+    "Boligblokk": 0.93,
+    "Barnehage": 1.0
+  }
+}

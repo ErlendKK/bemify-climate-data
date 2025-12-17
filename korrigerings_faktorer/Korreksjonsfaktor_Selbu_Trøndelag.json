@@ -1,0 +1,19 @@
+{
+  "kommune": "Selbu",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.27,
+    "Sykehus": 1.19,
+    "Sykehjem": 1.2,
+    "Småhus": 1.37,
+    "Skolebygning": 1.31,
+    "Kulturbygning": 1.27,
+    "Kontorbygning": 1.26,
+    "Lett industribygning, verksted": 1.3,
+    "Idrettsbygning": 1.39,
+    "Hotellbygning": 1.26,
+    "Forretningsbygning": 1.19,
+    "Boligblokk": 1.46,
+    "Barnehage": 1.23
+  }
+}

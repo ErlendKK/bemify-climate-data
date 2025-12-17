@@ -1,0 +1,19 @@
+{
+  "kommune": "Lærdal",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.91,
+    "Sykehus": 0.94,
+    "Sykehjem": 0.95,
+    "Småhus": 0.9,
+    "Skolebygning": 0.9,
+    "Kulturbygning": 0.93,
+    "Kontorbygning": 0.92,
+    "Lett industribygning, verksted": 0.92,
+    "Idrettsbygning": 0.86,
+    "Hotellbygning": 0.94,
+    "Forretningsbygning": 0.86,
+    "Boligblokk": 0.9,
+    "Barnehage": 0.95
+  }
+}

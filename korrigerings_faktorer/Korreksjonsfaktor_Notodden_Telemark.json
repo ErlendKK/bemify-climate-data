@@ -1,0 +1,19 @@
+{
+  "kommune": "Notodden",
+  "fylke": "Telemark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.1,
+    "Sykehus": 1.09,
+    "Sykehjem": 1.08,
+    "Småhus": 1.11,
+    "Skolebygning": 1.09,
+    "Kulturbygning": 1.09,
+    "Kontorbygning": 1.09,
+    "Lett industribygning, verksted": 1.09,
+    "Idrettsbygning": 1.1,
+    "Hotellbygning": 1.1,
+    "Forretningsbygning": 1.1,
+    "Boligblokk": 1.15,
+    "Barnehage": 1.08
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kommune": "Nord-Aurdal",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.27,
+    "Sykehus": 1.22,
+    "Sykehjem": 1.2,
+    "Småhus": 1.35,
+    "Skolebygning": 1.29,
+    "Kulturbygning": 1.25,
+    "Kontorbygning": 1.26,
+    "Lett industribygning, verksted": 1.28,
+    "Idrettsbygning": 1.36,
+    "Hotellbygning": 1.24,
+    "Forretningsbygning": 1.28,
+    "Boligblokk": 1.42,
+    "Barnehage": 1.21
+  }
+}

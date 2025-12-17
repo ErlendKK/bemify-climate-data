@@ -1,0 +1,19 @@
+{
+  "kommune": "Namsos",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.22,
+    "Sykehus": 1.18,
+    "Sykehjem": 1.18,
+    "Småhus": 1.26,
+    "Skolebygning": 1.23,
+    "Kulturbygning": 1.23,
+    "Kontorbygning": 1.23,
+    "Lett industribygning, verksted": 1.23,
+    "Idrettsbygning": 1.23,
+    "Hotellbygning": 1.21,
+    "Forretningsbygning": 1.17,
+    "Boligblokk": 1.33,
+    "Barnehage": 1.18
+  }
+}

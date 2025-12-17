@@ -1,0 +1,19 @@
+{
+  "kommune": "Modum",
+  "fylke": "Buskerud",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.14,
+    "Sykehus": 1.14,
+    "Sykehjem": 1.12,
+    "Småhus": 1.13,
+    "Skolebygning": 1.13,
+    "Kulturbygning": 1.13,
+    "Kontorbygning": 1.13,
+    "Lett industribygning, verksted": 1.12,
+    "Idrettsbygning": 1.15,
+    "Hotellbygning": 1.13,
+    "Forretningsbygning": 1.18,
+    "Boligblokk": 1.16,
+    "Barnehage": 1.09
+  }
+}

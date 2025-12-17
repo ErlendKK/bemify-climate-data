@@ -1,0 +1,19 @@
+{
+  "kommune": "Nittedal",
+  "fylke": "Akershus",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.26,
+    "Sykehus": 1.21,
+    "Sykehjem": 1.2,
+    "Småhus": 1.28,
+    "Skolebygning": 1.26,
+    "Kulturbygning": 1.25,
+    "Kontorbygning": 1.26,
+    "Lett industribygning, verksted": 1.26,
+    "Idrettsbygning": 1.3,
+    "Hotellbygning": 1.24,
+    "Forretningsbygning": 1.25,
+    "Boligblokk": 1.36,
+    "Barnehage": 1.19
+  }
+}

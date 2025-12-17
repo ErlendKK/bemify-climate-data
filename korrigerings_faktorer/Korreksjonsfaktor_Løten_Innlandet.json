@@ -1,0 +1,19 @@
+{
+  "kommune": "Løten",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.35,
+    "Sykehus": 1.3,
+    "Sykehjem": 1.27,
+    "Småhus": 1.38,
+    "Skolebygning": 1.35,
+    "Kulturbygning": 1.31,
+    "Kontorbygning": 1.33,
+    "Lett industribygning, verksted": 1.33,
+    "Idrettsbygning": 1.42,
+    "Hotellbygning": 1.31,
+    "Forretningsbygning": 1.44,
+    "Boligblokk": 1.49,
+    "Barnehage": 1.24
+  }
+}

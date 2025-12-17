@@ -1,0 +1,19 @@
+{
+  "kommune": "Malvik",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.14,
+    "Sykehus": 1.12,
+    "Sykehjem": 1.13,
+    "Småhus": 1.16,
+    "Skolebygning": 1.17,
+    "Kulturbygning": 1.17,
+    "Kontorbygning": 1.16,
+    "Lett industribygning, verksted": 1.16,
+    "Idrettsbygning": 1.14,
+    "Hotellbygning": 1.15,
+    "Forretningsbygning": 1.01,
+    "Boligblokk": 1.22,
+    "Barnehage": 1.13
+  }
+}

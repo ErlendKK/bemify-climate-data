@@ -1,0 +1,19 @@
+{
+  "kommune": "Randaberg",
+  "fylke": "Rogaland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.79,
+    "Sykehus": 0.85,
+    "Sykehjem": 0.9,
+    "Småhus": 0.83,
+    "Skolebygning": 0.83,
+    "Kulturbygning": 0.88,
+    "Kontorbygning": 0.82,
+    "Lett industribygning, verksted": 0.86,
+    "Idrettsbygning": 0.74,
+    "Hotellbygning": 0.87,
+    "Forretningsbygning": 0.58,
+    "Boligblokk": 0.82,
+    "Barnehage": 0.94
+  }
+}

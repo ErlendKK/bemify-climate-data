@@ -1,0 +1,19 @@
+{
+  "kommune": "Nissedal",
+  "fylke": "Telemark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.06,
+    "Sykehus": 1.04,
+    "Sykehjem": 1.06,
+    "Småhus": 1.12,
+    "Skolebygning": 1.09,
+    "Kulturbygning": 1.09,
+    "Kontorbygning": 1.07,
+    "Lett industribygning, verksted": 1.1,
+    "Idrettsbygning": 1.08,
+    "Hotellbygning": 1.09,
+    "Forretningsbygning": 0.96,
+    "Boligblokk": 1.11,
+    "Barnehage": 1.09
+  }
+}

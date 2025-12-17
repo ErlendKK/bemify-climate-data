@@ -1,0 +1,19 @@
+{
+  "kommune": "Nannestad",
+  "fylke": "Akershus",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.22,
+    "Sykehus": 1.18,
+    "Sykehjem": 1.16,
+    "Småhus": 1.26,
+    "Skolebygning": 1.22,
+    "Kulturbygning": 1.2,
+    "Kontorbygning": 1.21,
+    "Lett industribygning, verksted": 1.22,
+    "Idrettsbygning": 1.28,
+    "Hotellbygning": 1.2,
+    "Forretningsbygning": 1.24,
+    "Boligblokk": 1.32,
+    "Barnehage": 1.17
+  }
+}

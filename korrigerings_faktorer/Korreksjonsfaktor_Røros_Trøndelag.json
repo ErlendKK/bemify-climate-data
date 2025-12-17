@@ -1,0 +1,19 @@
+{
+  "kommune": "Røros",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.52,
+    "Sykehus": 1.41,
+    "Sykehjem": 1.39,
+    "Småhus": 1.63,
+    "Skolebygning": 1.59,
+    "Kulturbygning": 1.49,
+    "Kontorbygning": 1.49,
+    "Lett industribygning, verksted": 1.53,
+    "Idrettsbygning": 1.72,
+    "Hotellbygning": 1.46,
+    "Forretningsbygning": 1.5,
+    "Boligblokk": 1.77,
+    "Barnehage": 1.4
+  }
+}

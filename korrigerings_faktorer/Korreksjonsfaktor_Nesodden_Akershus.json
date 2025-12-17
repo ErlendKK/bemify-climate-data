@@ -1,0 +1,19 @@
+{
+  "kommune": "Nesodden",
+  "fylke": "Akershus",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.01,
+    "Sykehus": 1.0,
+    "Sykehjem": 1.01,
+    "Småhus": 1.01,
+    "Skolebygning": 1.0,
+    "Kulturbygning": 1.02,
+    "Kontorbygning": 1.01,
+    "Lett industribygning, verksted": 1.01,
+    "Idrettsbygning": 1.01,
+    "Hotellbygning": 1.02,
+    "Forretningsbygning": 0.99,
+    "Boligblokk": 1.03,
+    "Barnehage": 1.01
+  }
+}

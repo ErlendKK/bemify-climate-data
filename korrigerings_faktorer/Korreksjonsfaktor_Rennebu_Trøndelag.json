@@ -1,0 +1,19 @@
+{
+  "kommune": "Rennebu",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.3,
+    "Sykehus": 1.21,
+    "Sykehjem": 1.22,
+    "Småhus": 1.38,
+    "Skolebygning": 1.35,
+    "Kulturbygning": 1.3,
+    "Kontorbygning": 1.28,
+    "Lett industribygning, verksted": 1.32,
+    "Idrettsbygning": 1.41,
+    "Hotellbygning": 1.27,
+    "Forretningsbygning": 1.21,
+    "Boligblokk": 1.46,
+    "Barnehage": 1.25
+  }
+}

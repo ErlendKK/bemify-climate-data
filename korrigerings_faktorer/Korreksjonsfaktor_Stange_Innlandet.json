@@ -1,0 +1,19 @@
+{
+  "kommune": "Stange",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.4,
+    "Sykehus": 1.33,
+    "Sykehjem": 1.29,
+    "Småhus": 1.43,
+    "Skolebygning": 1.39,
+    "Kulturbygning": 1.34,
+    "Kontorbygning": 1.37,
+    "Lett industribygning, verksted": 1.36,
+    "Idrettsbygning": 1.48,
+    "Hotellbygning": 1.34,
+    "Forretningsbygning": 1.48,
+    "Boligblokk": 1.55,
+    "Barnehage": 1.27
+  }
+}

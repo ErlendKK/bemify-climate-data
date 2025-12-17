@@ -1,0 +1,19 @@
+{
+  "kommune": "Nore og Uvdal",
+  "fylke": "Buskerud",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.18,
+    "Sykehus": 1.15,
+    "Sykehjem": 1.15,
+    "Småhus": 1.25,
+    "Skolebygning": 1.21,
+    "Kulturbygning": 1.18,
+    "Kontorbygning": 1.17,
+    "Lett industribygning, verksted": 1.21,
+    "Idrettsbygning": 1.27,
+    "Hotellbygning": 1.19,
+    "Forretningsbygning": 1.15,
+    "Boligblokk": 1.29,
+    "Barnehage": 1.17
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kommune": "Midt-Telemark",
+  "fylke": "Telemark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.14,
+    "Sykehus": 1.13,
+    "Sykehjem": 1.11,
+    "Småhus": 1.13,
+    "Skolebygning": 1.12,
+    "Kulturbygning": 1.12,
+    "Kontorbygning": 1.13,
+    "Lett industribygning, verksted": 1.12,
+    "Idrettsbygning": 1.15,
+    "Hotellbygning": 1.13,
+    "Forretningsbygning": 1.2,
+    "Boligblokk": 1.16,
+    "Barnehage": 1.09
+  }
+}

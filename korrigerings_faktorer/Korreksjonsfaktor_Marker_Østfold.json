@@ -1,0 +1,19 @@
+{
+  "kommune": "Marker",
+  "fylke": "Østfold",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.08,
+    "Sykehus": 1.06,
+    "Sykehjem": 1.07,
+    "Småhus": 1.11,
+    "Skolebygning": 1.09,
+    "Kulturbygning": 1.09,
+    "Kontorbygning": 1.08,
+    "Lett industribygning, verksted": 1.1,
+    "Idrettsbygning": 1.09,
+    "Hotellbygning": 1.09,
+    "Forretningsbygning": 1.02,
+    "Boligblokk": 1.13,
+    "Barnehage": 1.09
+  }
+}

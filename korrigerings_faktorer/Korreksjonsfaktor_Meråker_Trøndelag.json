@@ -1,0 +1,19 @@
+{
+  "kommune": "Meråker",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.18,
+    "Sykehus": 1.15,
+    "Sykehjem": 1.15,
+    "Småhus": 1.23,
+    "Skolebygning": 1.21,
+    "Kulturbygning": 1.19,
+    "Kontorbygning": 1.18,
+    "Lett industribygning, verksted": 1.2,
+    "Idrettsbygning": 1.23,
+    "Hotellbygning": 1.19,
+    "Forretningsbygning": 1.13,
+    "Boligblokk": 1.3,
+    "Barnehage": 1.16
+  }
+}

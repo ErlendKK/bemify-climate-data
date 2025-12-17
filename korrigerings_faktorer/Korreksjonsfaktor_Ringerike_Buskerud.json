@@ -1,0 +1,19 @@
+{
+  "kommune": "Ringerike",
+  "fylke": "Buskerud",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.24,
+    "Sykehus": 1.21,
+    "Sykehjem": 1.17,
+    "Småhus": 1.22,
+    "Skolebygning": 1.2,
+    "Kulturbygning": 1.2,
+    "Kontorbygning": 1.22,
+    "Lett industribygning, verksted": 1.21,
+    "Idrettsbygning": 1.26,
+    "Hotellbygning": 1.2,
+    "Forretningsbygning": 1.34,
+    "Boligblokk": 1.29,
+    "Barnehage": 1.14
+  }
+}

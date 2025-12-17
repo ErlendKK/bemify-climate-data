@@ -1,0 +1,19 @@
+{
+  "kommune": "Moss",
+  "fylke": "Østfold",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.04,
+    "Sykehus": 1.04,
+    "Sykehjem": 1.03,
+    "Småhus": 1.02,
+    "Skolebygning": 1.01,
+    "Kulturbygning": 1.03,
+    "Kontorbygning": 1.03,
+    "Lett industribygning, verksted": 1.03,
+    "Idrettsbygning": 1.02,
+    "Hotellbygning": 1.03,
+    "Forretningsbygning": 1.03,
+    "Boligblokk": 1.04,
+    "Barnehage": 1.02
+  }
+}

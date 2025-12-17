@@ -1,0 +1,19 @@
+{
+  "kommune": "Lødingen",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.31,
+    "Sykehus": 1.22,
+    "Sykehjem": 1.23,
+    "Småhus": 1.43,
+    "Skolebygning": 1.36,
+    "Kulturbygning": 1.32,
+    "Kontorbygning": 1.32,
+    "Lett industribygning, verksted": 1.34,
+    "Idrettsbygning": 1.41,
+    "Hotellbygning": 1.29,
+    "Forretningsbygning": 1.15,
+    "Boligblokk": 1.56,
+    "Barnehage": 1.26
+  }
+}

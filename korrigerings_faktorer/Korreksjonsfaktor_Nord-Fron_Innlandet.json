@@ -1,0 +1,19 @@
+{
+  "kommune": "Nord-Fron",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.22,
+    "Sykehus": 1.16,
+    "Sykehjem": 1.15,
+    "Småhus": 1.29,
+    "Skolebygning": 1.23,
+    "Kulturbygning": 1.19,
+    "Kontorbygning": 1.2,
+    "Lett industribygning, verksted": 1.22,
+    "Idrettsbygning": 1.32,
+    "Hotellbygning": 1.19,
+    "Forretningsbygning": 1.25,
+    "Boligblokk": 1.36,
+    "Barnehage": 1.17
+  }
+}

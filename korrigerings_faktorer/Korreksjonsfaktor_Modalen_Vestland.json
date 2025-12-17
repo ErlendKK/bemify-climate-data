@@ -1,0 +1,19 @@
+{
+  "kommune": "Modalen",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.95,
+    "Sykehus": 0.97,
+    "Sykehjem": 1.0,
+    "Småhus": 0.99,
+    "Skolebygning": 0.98,
+    "Kulturbygning": 1.0,
+    "Kontorbygning": 0.97,
+    "Lett industribygning, verksted": 0.99,
+    "Idrettsbygning": 0.92,
+    "Hotellbygning": 0.99,
+    "Forretningsbygning": 0.8,
+    "Boligblokk": 1.0,
+    "Barnehage": 1.02
+  }
+}

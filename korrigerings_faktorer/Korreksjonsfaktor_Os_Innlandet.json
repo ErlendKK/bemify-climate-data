@@ -1,0 +1,19 @@
+{
+  "kommune": "Os",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.5,
+    "Sykehus": 1.4,
+    "Sykehjem": 1.38,
+    "Småhus": 1.62,
+    "Skolebygning": 1.58,
+    "Kulturbygning": 1.48,
+    "Kontorbygning": 1.48,
+    "Lett industribygning, verksted": 1.52,
+    "Idrettsbygning": 1.69,
+    "Hotellbygning": 1.45,
+    "Forretningsbygning": 1.46,
+    "Boligblokk": 1.75,
+    "Barnehage": 1.39
+  }
+}

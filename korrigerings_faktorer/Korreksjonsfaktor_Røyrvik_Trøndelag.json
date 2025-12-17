@@ -1,0 +1,19 @@
+{
+  "kommune": "Røyrvik",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.52,
+    "Sykehus": 1.4,
+    "Sykehjem": 1.37,
+    "Småhus": 1.64,
+    "Skolebygning": 1.57,
+    "Kulturbygning": 1.48,
+    "Kontorbygning": 1.5,
+    "Lett industribygning, verksted": 1.52,
+    "Idrettsbygning": 1.7,
+    "Hotellbygning": 1.45,
+    "Forretningsbygning": 1.48,
+    "Boligblokk": 1.8,
+    "Barnehage": 1.38
+  }
+}

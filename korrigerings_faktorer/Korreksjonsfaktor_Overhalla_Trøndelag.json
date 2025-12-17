@@ -1,0 +1,19 @@
+{
+  "kommune": "Overhalla",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.28,
+    "Sykehus": 1.24,
+    "Sykehjem": 1.23,
+    "Småhus": 1.34,
+    "Skolebygning": 1.29,
+    "Kulturbygning": 1.28,
+    "Kontorbygning": 1.29,
+    "Lett industribygning, verksted": 1.29,
+    "Idrettsbygning": 1.32,
+    "Hotellbygning": 1.27,
+    "Forretningsbygning": 1.25,
+    "Boligblokk": 1.44,
+    "Barnehage": 1.22
+  }
+}

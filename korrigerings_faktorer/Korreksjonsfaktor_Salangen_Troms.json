@@ -1,0 +1,19 @@
+{
+  "kommune": "Salangen",
+  "fylke": "Troms",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.34,
+    "Sykehus": 1.25,
+    "Sykehjem": 1.25,
+    "Småhus": 1.46,
+    "Skolebygning": 1.38,
+    "Kulturbygning": 1.33,
+    "Kontorbygning": 1.35,
+    "Lett industribygning, verksted": 1.35,
+    "Idrettsbygning": 1.48,
+    "Hotellbygning": 1.31,
+    "Forretningsbygning": 1.29,
+    "Boligblokk": 1.59,
+    "Barnehage": 1.26
+  }
+}

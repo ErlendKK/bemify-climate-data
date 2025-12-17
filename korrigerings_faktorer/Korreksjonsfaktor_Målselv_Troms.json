@@ -1,0 +1,19 @@
+{
+  "kommune": "Målselv",
+  "fylke": "Troms",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.51,
+    "Sykehus": 1.39,
+    "Sykehjem": 1.37,
+    "Småhus": 1.63,
+    "Skolebygning": 1.56,
+    "Kulturbygning": 1.47,
+    "Kontorbygning": 1.5,
+    "Lett industribygning, verksted": 1.5,
+    "Idrettsbygning": 1.69,
+    "Hotellbygning": 1.44,
+    "Forretningsbygning": 1.5,
+    "Boligblokk": 1.8,
+    "Barnehage": 1.37
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kommune": "Skaun",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.15,
+    "Sykehus": 1.13,
+    "Sykehjem": 1.14,
+    "Småhus": 1.17,
+    "Skolebygning": 1.18,
+    "Kulturbygning": 1.18,
+    "Kontorbygning": 1.16,
+    "Lett industribygning, verksted": 1.18,
+    "Idrettsbygning": 1.15,
+    "Hotellbygning": 1.17,
+    "Forretningsbygning": 1.03,
+    "Boligblokk": 1.22,
+    "Barnehage": 1.14
+  }
+}

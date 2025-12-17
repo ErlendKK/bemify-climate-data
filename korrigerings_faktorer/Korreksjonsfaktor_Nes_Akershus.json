@@ -1,0 +1,19 @@
+{
+  "kommune": "Nes",
+  "fylke": "Akershus",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.24,
+    "Sykehus": 1.2,
+    "Sykehjem": 1.18,
+    "Småhus": 1.26,
+    "Skolebygning": 1.23,
+    "Kulturbygning": 1.21,
+    "Kontorbygning": 1.22,
+    "Lett industribygning, verksted": 1.22,
+    "Idrettsbygning": 1.27,
+    "Hotellbygning": 1.21,
+    "Forretningsbygning": 1.27,
+    "Boligblokk": 1.34,
+    "Barnehage": 1.18
+  }
+}

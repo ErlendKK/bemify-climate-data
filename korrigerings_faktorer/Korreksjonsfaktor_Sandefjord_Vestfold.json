@@ -1,0 +1,19 @@
+{
+  "kommune": "Sandefjord",
+  "fylke": "Vestfold",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.02,
+    "Sykehus": 1.03,
+    "Sykehjem": 1.03,
+    "Småhus": 1.01,
+    "Skolebygning": 1.0,
+    "Kulturbygning": 1.02,
+    "Kontorbygning": 1.02,
+    "Lett industribygning, verksted": 1.02,
+    "Idrettsbygning": 1.0,
+    "Hotellbygning": 1.03,
+    "Forretningsbygning": 1.0,
+    "Boligblokk": 1.03,
+    "Barnehage": 1.02
+  }
+}

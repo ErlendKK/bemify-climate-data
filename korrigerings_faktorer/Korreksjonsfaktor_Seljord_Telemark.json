@@ -1,0 +1,19 @@
+{
+  "kommune": "Seljord",
+  "fylke": "Telemark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.98,
+    "Sykehus": 1.01,
+    "Sykehjem": 1.01,
+    "Småhus": 0.99,
+    "Skolebygning": 0.98,
+    "Kulturbygning": 1.01,
+    "Kontorbygning": 0.98,
+    "Lett industribygning, verksted": 1.01,
+    "Idrettsbygning": 0.98,
+    "Hotellbygning": 1.02,
+    "Forretningsbygning": 0.96,
+    "Boligblokk": 0.97,
+    "Barnehage": 1.02
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kommune": "Masfjorden",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.93,
+    "Sykehus": 0.96,
+    "Sykehjem": 1.0,
+    "Småhus": 0.95,
+    "Skolebygning": 0.97,
+    "Kulturbygning": 1.0,
+    "Kontorbygning": 0.97,
+    "Lett industribygning, verksted": 0.98,
+    "Idrettsbygning": 0.87,
+    "Hotellbygning": 0.98,
+    "Forretningsbygning": 0.73,
+    "Boligblokk": 0.96,
+    "Barnehage": 1.02
+  }
+}

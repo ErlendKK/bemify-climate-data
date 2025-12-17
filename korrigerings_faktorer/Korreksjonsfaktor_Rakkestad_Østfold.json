@@ -1,0 +1,19 @@
+{
+  "kommune": "Rakkestad",
+  "fylke": "Østfold",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.07,
+    "Sykehus": 1.05,
+    "Sykehjem": 1.06,
+    "Småhus": 1.12,
+    "Skolebygning": 1.07,
+    "Kulturbygning": 1.08,
+    "Kontorbygning": 1.07,
+    "Lett industribygning, verksted": 1.09,
+    "Idrettsbygning": 1.09,
+    "Hotellbygning": 1.08,
+    "Forretningsbygning": 1.01,
+    "Boligblokk": 1.14,
+    "Barnehage": 1.08
+  }
+}

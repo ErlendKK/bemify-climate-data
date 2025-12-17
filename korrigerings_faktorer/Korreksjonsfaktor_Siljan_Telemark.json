@@ -1,0 +1,19 @@
+{
+  "kommune": "Siljan",
+  "fylke": "Telemark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.1,
+    "Sykehus": 1.09,
+    "Sykehjem": 1.08,
+    "Småhus": 1.11,
+    "Skolebygning": 1.09,
+    "Kulturbygning": 1.11,
+    "Kontorbygning": 1.1,
+    "Lett industribygning, verksted": 1.11,
+    "Idrettsbygning": 1.07,
+    "Hotellbygning": 1.11,
+    "Forretningsbygning": 1.05,
+    "Boligblokk": 1.12,
+    "Barnehage": 1.09
+  }
+}

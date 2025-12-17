@@ -1,0 +1,19 @@
+{
+  "kommune": "Skjåk",
+  "fylke": "Innlandet",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.09,
+    "Sykehus": 1.04,
+    "Sykehjem": 1.05,
+    "Småhus": 1.21,
+    "Skolebygning": 1.12,
+    "Kulturbygning": 1.1,
+    "Kontorbygning": 1.09,
+    "Lett industribygning, verksted": 1.13,
+    "Idrettsbygning": 1.21,
+    "Hotellbygning": 1.09,
+    "Forretningsbygning": 1.05,
+    "Boligblokk": 1.24,
+    "Barnehage": 1.11
+  }
+}

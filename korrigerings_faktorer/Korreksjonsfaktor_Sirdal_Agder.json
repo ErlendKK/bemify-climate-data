@@ -1,0 +1,19 @@
+{
+  "kommune": "Sirdal",
+  "fylke": "Agder",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.9,
+    "Sykehus": 0.93,
+    "Sykehjem": 0.95,
+    "Småhus": 0.91,
+    "Skolebygning": 0.9,
+    "Kulturbygning": 0.94,
+    "Kontorbygning": 0.92,
+    "Lett industribygning, verksted": 0.94,
+    "Idrettsbygning": 0.86,
+    "Hotellbygning": 0.94,
+    "Forretningsbygning": 0.79,
+    "Boligblokk": 0.89,
+    "Barnehage": 0.97
+  }
+}

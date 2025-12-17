@@ -1,0 +1,19 @@
+{
+  "kommune": "Nordre Follo",
+  "fylke": "Akershus",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.16,
+    "Sykehus": 1.13,
+    "Sykehjem": 1.13,
+    "Småhus": 1.2,
+    "Skolebygning": 1.16,
+    "Kulturbygning": 1.15,
+    "Kontorbygning": 1.16,
+    "Lett industribygning, verksted": 1.17,
+    "Idrettsbygning": 1.21,
+    "Hotellbygning": 1.15,
+    "Forretningsbygning": 1.16,
+    "Boligblokk": 1.26,
+    "Barnehage": 1.13
+  }
+}

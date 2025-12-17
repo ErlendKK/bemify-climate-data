@@ -1,0 +1,19 @@
+{
+  "kommune": "Nome",
+  "fylke": "Telemark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.11,
+    "Sykehus": 1.11,
+    "Sykehjem": 1.09,
+    "Småhus": 1.1,
+    "Skolebygning": 1.09,
+    "Kulturbygning": 1.09,
+    "Kontorbygning": 1.1,
+    "Lett industribygning, verksted": 1.09,
+    "Idrettsbygning": 1.11,
+    "Hotellbygning": 1.1,
+    "Forretningsbygning": 1.15,
+    "Boligblokk": 1.13,
+    "Barnehage": 1.07
+  }
+}

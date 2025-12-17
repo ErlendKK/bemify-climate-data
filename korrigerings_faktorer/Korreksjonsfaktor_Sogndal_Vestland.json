@@ -1,0 +1,19 @@
+{
+  "kommune": "Sogndal",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.99,
+    "Sykehus": 1.0,
+    "Sykehjem": 1.0,
+    "Småhus": 0.99,
+    "Skolebygning": 0.98,
+    "Kulturbygning": 1.0,
+    "Kontorbygning": 1.0,
+    "Lett industribygning, verksted": 1.0,
+    "Idrettsbygning": 0.98,
+    "Hotellbygning": 1.01,
+    "Forretningsbygning": 0.97,
+    "Boligblokk": 1.0,
+    "Barnehage": 1.01
+  }
+}

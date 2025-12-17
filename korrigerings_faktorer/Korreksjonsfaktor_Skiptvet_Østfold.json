@@ -1,0 +1,19 @@
+{
+  "kommune": "Skiptvet",
+  "fylke": "Østfold",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.09,
+    "Sykehus": 1.07,
+    "Sykehjem": 1.08,
+    "Småhus": 1.13,
+    "Skolebygning": 1.1,
+    "Kulturbygning": 1.09,
+    "Kontorbygning": 1.09,
+    "Lett industribygning, verksted": 1.11,
+    "Idrettsbygning": 1.13,
+    "Hotellbygning": 1.1,
+    "Forretningsbygning": 1.04,
+    "Boligblokk": 1.16,
+    "Barnehage": 1.09
+  }
+}

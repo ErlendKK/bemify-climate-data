@@ -1,0 +1,19 @@
+{
+  "kommune": "Narvik",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.31,
+    "Sykehus": 1.22,
+    "Sykehjem": 1.23,
+    "Småhus": 1.44,
+    "Skolebygning": 1.35,
+    "Kulturbygning": 1.31,
+    "Kontorbygning": 1.33,
+    "Lett industribygning, verksted": 1.33,
+    "Idrettsbygning": 1.43,
+    "Hotellbygning": 1.29,
+    "Forretningsbygning": 1.21,
+    "Boligblokk": 1.57,
+    "Barnehage": 1.24
+  }
+}

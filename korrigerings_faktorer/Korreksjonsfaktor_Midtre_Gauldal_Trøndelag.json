@@ -1,0 +1,19 @@
+{
+  "kommune": "Midtre Gauldal",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.18,
+    "Sykehus": 1.15,
+    "Sykehjem": 1.16,
+    "Småhus": 1.21,
+    "Skolebygning": 1.21,
+    "Kulturbygning": 1.2,
+    "Kontorbygning": 1.19,
+    "Lett industribygning, verksted": 1.2,
+    "Idrettsbygning": 1.22,
+    "Hotellbygning": 1.19,
+    "Forretningsbygning": 1.11,
+    "Boligblokk": 1.28,
+    "Barnehage": 1.16
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kommune": "Moskenes",
+  "fylke": "Nordland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.01,
+    "Sykehus": 0.98,
+    "Sykehjem": 1.03,
+    "Småhus": 1.16,
+    "Skolebygning": 1.08,
+    "Kulturbygning": 1.09,
+    "Kontorbygning": 1.04,
+    "Lett industribygning, verksted": 1.1,
+    "Idrettsbygning": 1.06,
+    "Hotellbygning": 1.06,
+    "Forretningsbygning": 0.74,
+    "Boligblokk": 1.22,
+    "Barnehage": 1.1
+  }
+}

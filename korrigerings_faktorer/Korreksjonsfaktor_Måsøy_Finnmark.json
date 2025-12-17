@@ -1,0 +1,19 @@
+{
+  "kommune": "Måsøy",
+  "fylke": "Finnmark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.41,
+    "Sykehus": 1.31,
+    "Sykehjem": 1.32,
+    "Småhus": 1.53,
+    "Skolebygning": 1.5,
+    "Kulturbygning": 1.43,
+    "Kontorbygning": 1.43,
+    "Lett industribygning, verksted": 1.46,
+    "Idrettsbygning": 1.55,
+    "Hotellbygning": 1.39,
+    "Forretningsbygning": 1.23,
+    "Boligblokk": 1.66,
+    "Barnehage": 1.34
+  }
+}

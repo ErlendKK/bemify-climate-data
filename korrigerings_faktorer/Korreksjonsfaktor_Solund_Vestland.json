@@ -1,0 +1,19 @@
+{
+  "kommune": "Solund",
+  "fylke": "Vestland",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.88,
+    "Sykehus": 0.92,
+    "Sykehjem": 0.97,
+    "Småhus": 0.93,
+    "Skolebygning": 0.93,
+    "Kulturbygning": 0.97,
+    "Kontorbygning": 0.92,
+    "Lett industribygning, verksted": 0.95,
+    "Idrettsbygning": 0.81,
+    "Hotellbygning": 0.95,
+    "Forretningsbygning": 0.62,
+    "Boligblokk": 0.95,
+    "Barnehage": 1.0
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kommune": "Lyngdal",
+  "fylke": "Agder",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.87,
+    "Sykehus": 0.91,
+    "Sykehjem": 0.94,
+    "Småhus": 0.89,
+    "Skolebygning": 0.87,
+    "Kulturbygning": 0.92,
+    "Kontorbygning": 0.89,
+    "Lett industribygning, verksted": 0.91,
+    "Idrettsbygning": 0.82,
+    "Hotellbygning": 0.93,
+    "Forretningsbygning": 0.74,
+    "Boligblokk": 0.88,
+    "Barnehage": 0.96
+  }
+}

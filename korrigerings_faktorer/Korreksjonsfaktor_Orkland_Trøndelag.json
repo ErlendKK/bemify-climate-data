@@ -1,0 +1,19 @@
+{
+  "kommune": "Orkland",
+  "fylke": "Trøndelag",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.16,
+    "Sykehus": 1.14,
+    "Sykehjem": 1.15,
+    "Småhus": 1.2,
+    "Skolebygning": 1.18,
+    "Kulturbygning": 1.18,
+    "Kontorbygning": 1.17,
+    "Lett industribygning, verksted": 1.18,
+    "Idrettsbygning": 1.18,
+    "Hotellbygning": 1.17,
+    "Forretningsbygning": 1.09,
+    "Boligblokk": 1.28,
+    "Barnehage": 1.15
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kommune": "Porsgrunn",
+  "fylke": "Telemark",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.1,
+    "Sykehus": 1.1,
+    "Sykehjem": 1.08,
+    "Småhus": 1.08,
+    "Skolebygning": 1.06,
+    "Kulturbygning": 1.08,
+    "Kontorbygning": 1.09,
+    "Lett industribygning, verksted": 1.08,
+    "Idrettsbygning": 1.08,
+    "Hotellbygning": 1.09,
+    "Forretningsbygning": 1.14,
+    "Boligblokk": 1.1,
+    "Barnehage": 1.06
+  }
+}

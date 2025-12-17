@@ -1,0 +1,19 @@
+{
+  "kommune": "Senja",
+  "fylke": "Troms",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 1.4,
+    "Sykehus": 1.3,
+    "Sykehjem": 1.3,
+    "Småhus": 1.53,
+    "Skolebygning": 1.47,
+    "Kulturbygning": 1.39,
+    "Kontorbygning": 1.41,
+    "Lett industribygning, verksted": 1.42,
+    "Idrettsbygning": 1.53,
+    "Hotellbygning": 1.36,
+    "Forretningsbygning": 1.28,
+    "Boligblokk": 1.67,
+    "Barnehage": 1.31
+  }
+}

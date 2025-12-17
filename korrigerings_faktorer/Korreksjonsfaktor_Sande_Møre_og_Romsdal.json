@@ -1,0 +1,19 @@
+{
+  "kommune": "Sande",
+  "fylke": "Møre og Romsdal",
+  "korreksjonsfaktorer": {
+    "Universitets- og høgskolebygning": 0.88,
+    "Sykehus": 0.91,
+    "Sykehjem": 0.96,
+    "Småhus": 0.94,
+    "Skolebygning": 0.92,
+    "Kulturbygning": 0.96,
+    "Kontorbygning": 0.91,
+    "Lett industribygning, verksted": 0.95,
+    "Idrettsbygning": 0.85,
+    "Hotellbygning": 0.95,
+    "Forretningsbygning": 0.67,
+    "Boligblokk": 0.94,
+    "Barnehage": 1.0
+  }
+}
